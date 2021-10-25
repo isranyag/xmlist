@@ -3450,9 +3450,6 @@
   <programme start="20211025120000 -0500" stop="20211025123000 -0500" channel="21">
     <title lang="es">Caracol cine</title>
   </programme>
-  <programme start="20211025123000 -0500" stop="20211025150000 -0500" channel="21">
-    <title lang="es">Noticias Caracol</title>
-  </programme>
   <programme start="20211025150000 -0500" stop="20211025160000 -0500" channel="21">
     <title lang="es">La esclava blanca</title>
   </programme>
@@ -3584,6 +3581,9 @@
   </programme>
   <programme start="20211025180000 -0500" stop="20211025190000 -0500" channel="22">
     <title lang="es">El mano a mano</title>
+  </programme>
+  <programme start="20211025190000 -0500" stop="20211025200000 -0500" channel="22">
+    <title lang="es">Programación videos</title>
   </programme>
   <programme start="20211025200000 -0500" stop="20211025210000 -0500" channel="22">
     <title lang="es">La hora del amor</title>
@@ -4112,14 +4112,14 @@
   <programme start="20211025113000 -0500" stop="20211025120000 -0500" channel="26">
     <title lang="es">CST</title>
   </programme>
-  <programme start="20211025130000 -0500" stop="20211025140000 -0500" channel="26">
-    <title lang="es">Planeta Gente</title>
-  </programme>
   <programme start="20211025140000 -0500" stop="20211025143000 -0500" channel="26">
     <title lang="es">Club Prensa</title>
   </programme>
   <programme start="20211025160000 -0500" stop="20211025180000 -0500" channel="26">
     <title lang="es">La Tarde</title>
+  </programme>
+  <programme start="20211025190000 -0500" stop="20211025200000 -0500" channel="26">
+    <title lang="es">Informativo NTN</title>
   </programme>
   <programme start="20211025200000 -0500" stop="20211025210000 -0500" channel="26">
     <title lang="es">Zoom a la Noticia</title>
