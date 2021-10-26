@@ -1203,8 +1203,8 @@
   <programme start="20211026013000 -0500" stop="20211026043000 -0500" channel="6">
     <title lang="es">Café TV</title>
   </programme>
-  <programme start="20211026130000 -0500" stop="20211026140000 -0500" channel="6">
-    <title lang="es">Telediario</title>
+  <programme start="20211026190000 -0500" stop="20211026200000 -0500" channel="6">
+    <title lang="es">Esta es mi canción</title>
   </programme>
   <programme start="20211025003000 -0500" stop="20211025010000 -0500" channel="7">
     <title lang="es">La Niñera</title>
@@ -1290,8 +1290,8 @@
   <programme start="20211027050000 -0500" stop="20211027054500 -0500" channel="7">
     <title lang="es">Noticiero al Cierre</title>
   </programme>
-  <programme start="20211027123000 -0500" stop="20211027140000 -0500" channel="7">
-    <title lang="es">El Noticiero - 2da. emisión</title>
+  <programme start="20211027190000 -0500" stop="20211027203000 -0500" channel="7">
+    <title lang="es">El Noticiero - 3ra emisión</title>
   </programme>
   <programme start="20211025000500 -0500" stop="20211025003000 -0500" channel="8">
     <title lang="es">En Corto</title>
@@ -1696,8 +1696,8 @@
   <programme start="20211025230000 -0500" stop="20211026000000 -0500" channel="10">
     <title lang="es">Novedades TV</title>
   </programme>
-  <programme start="20211026130000 -0500" stop="20211026134500 -0500" channel="10">
-    <title lang="es">Gamanoticias en la comunidad</title>
+  <programme start="20211026190000 -0500" stop="20211026200000 -0500" channel="10">
+    <title lang="es">Gamanoticias estelar</title>
   </programme>
   <programme start="20211025000500 -0500" stop="20211025013500 -0500" channel="11">
     <title lang="es">Decadencia</title>
@@ -1888,7 +1888,7 @@
   <programme start="20211026000000 -0500" stop="20211026003000 -0500" channel="12">
     <title lang="es">Notas divinas</title>
   </programme>
-  <programme start="20211026130000 -0500" stop="20211026133000 -0500" channel="12">
+  <programme start="20211026190000 -0500" stop="20211026200000 -0500" channel="12">
     <title lang="es">Lo mejor en carne propia</title>
   </programme>
   <programme start="20211025030000 -0500" stop="20211025050000 -0500" channel="13">
@@ -3580,10 +3580,10 @@
   <programme start="20211026100000 -0500" stop="20211026110000 -0500" channel="22">
     <title lang="es">Estudio abierto</title>
   </programme>
-  <programme start="20211026130000 -0500" stop="20211026140000 -0500" channel="22">
+  <programme start="20211026180000 -0500" stop="20211026190000 -0500" channel="22">
     <title lang="es">Programación videos</title>
   </programme>
-  <programme start="20211026180000 -0500" stop="20211026190000 -0500" channel="22">
+  <programme start="20211026190000 -0500" stop="20211026200000 -0500" channel="22">
     <title lang="es">Programación videos</title>
   </programme>
   <programme start="20211026200000 -0500" stop="20211026210000 -0500" channel="22">
@@ -4150,11 +4150,11 @@
   <programme start="20211026090000 -0500" stop="20211026100000 -0500" channel="26">
     <title lang="es">Zoom a la Noticia</title>
   </programme>
-  <programme start="20211026130000 -0500" stop="20211026140000 -0500" channel="26">
-    <title lang="es">Planeta Gente</title>
-  </programme>
   <programme start="20211026180000 -0500" stop="20211026190000 -0500" channel="26">
     <title lang="es">La Noche</title>
+  </programme>
+  <programme start="20211026190000 -0500" stop="20211026200000 -0500" channel="26">
+    <title lang="es">Informativo NTN</title>
   </programme>
   <programme start="20211026230000 -0500" stop="20211027000000 -0500" channel="26">
     <title lang="es">La Noche</title>
@@ -4614,6 +4614,9 @@
     <title lang="es">Kiko</title>
     <title lang="xx">Kiko</title>
     <desc lang="es">Kiko, Poly, Lola, Patino y Ting-Ting son cinco amigos que resuelven sus problemas de manera divertida y única en un pequeño pueblo en el fondo del lago.(n)</desc>
+  </programme>
+  <programme start="20211026190000 -0500" stop="20211026191500 -0500" channel="28">
+    <title lang="es">La Playa de Bob</title>
   </programme>
   <programme start="20211026213000 -0500" stop="20211026214500 -0500" channel="28">
     <title lang="es">Jelly Jamm</title>
