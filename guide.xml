@@ -183,7 +183,7 @@
   <programme start="20211027223000 -0500" stop="20211027231500 -0500" channel="1">
     <title lang="es">100 días para enamorarse</title>
   </programme>
-  <programme start="20211028130000 -0500" stop="20211028140000 -0500" channel="1">
+  <programme start="20211028190000 -0500" stop="20211028200000 -0500" channel="1">
     <title lang="es">Televistazo</title>
   </programme>
   <programme start="20211027005500 -0500" stop="20211027021700 -0500" channel="2">
@@ -369,7 +369,7 @@
   <programme start="20211027230000 -0500" stop="20211028000000 -0500" channel="3">
     <title lang="es">Suleimán, el sultán</title>
   </programme>
-  <programme start="20211028130000 -0500" stop="20211028140000 -0500" channel="3">
+  <programme start="20211028190000 -0500" stop="20211028200000 -0500" channel="3">
     <title lang="es">La Rosa de Guadalupe</title>
   </programme>
   <programme start="20211027002400 -0500" stop="20211027021000 -0500" channel="4">
@@ -990,8 +990,8 @@
   <programme start="20211027230000 -0500" stop="20211028000000 -0500" channel="6">
     <title lang="es">Rodando Ecuador</title>
   </programme>
-  <programme start="20211028130000 -0500" stop="20211028140000 -0500" channel="6">
-    <title lang="es">Telediario</title>
+  <programme start="20211028190000 -0500" stop="20211028200000 -0500" channel="6">
+    <title lang="es">Esta es mi canción</title>
   </programme>
   <programme start="20211027010000 -0500" stop="20211027011500 -0500" channel="7">
     <title lang="es">La Niñera</title>
@@ -1065,8 +1065,8 @@
   <programme start="20211027233000 -0500" stop="20211028000000 -0500" channel="7">
     <title lang="es">Caso cerrado Edición estelar</title>
   </programme>
-  <programme start="20211028123000 -0500" stop="20211028140000 -0500" channel="7">
-    <title lang="es">El noticiero II</title>
+  <programme start="20211028190000 -0500" stop="20211028203000 -0500" channel="7">
+    <title lang="es">El Noticiero III</title>
   </programme>
   <programme start="20211027001500 -0500" stop="20211027011500 -0500" channel="8">
     <title lang="es">Homeland</title>
@@ -1165,8 +1165,9 @@
     <title lang="xx">CSI: Miami</title>
     <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.(n)</desc>
   </programme>
-  <programme start="20211028130000 -0500" stop="20211028135500 -0500" channel="8">
-    <title lang="es">24 Horas</title>
+  <programme start="20211028190000 -0500" stop="20211028200000 -0500" channel="8">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.(n)</desc>
   </programme>
   <programme start="20211027010000 -0500" stop="20211027012800 -0500" channel="9">
     <title lang="es">Cuponmanía</title>
@@ -1375,8 +1376,8 @@
   <programme start="20211027230000 -0500" stop="20211028000000 -0500" channel="10">
     <title lang="es">Novedades TV</title>
   </programme>
-  <programme start="20211028130000 -0500" stop="20211028134500 -0500" channel="10">
-    <title lang="es">Gamanoticias en la comunidad</title>
+  <programme start="20211028190000 -0500" stop="20211028200000 -0500" channel="10">
+    <title lang="es">Gamanoticias estelar</title>
   </programme>
   <programme start="20211027000500 -0500" stop="20211027014000 -0500" channel="11">
     <title lang="es">45 Expansiva</title>
@@ -1548,7 +1549,7 @@
   <programme start="20211027230000 -0500" stop="20211028000000 -0500" channel="12">
     <title lang="es">Noticiero Uno</title>
   </programme>
-  <programme start="20211028130000 -0500" stop="20211028133000 -0500" channel="12">
+  <programme start="20211028190000 -0500" stop="20211028200000 -0500" channel="12">
     <title lang="es">Lo mejor en carne propia</title>
   </programme>
   <programme start="20211027030000 -0500" stop="20211027050000 -0500" channel="13">
@@ -2912,9 +2913,6 @@
   <programme start="20211028120000 -0500" stop="20211028123000 -0500" channel="21">
     <title lang="es">Deportes 360</title>
   </programme>
-  <programme start="20211028123000 -0500" stop="20211028150000 -0500" channel="21">
-    <title lang="es">Noticias Caracol</title>
-  </programme>
   <programme start="20211028173000 -0500" stop="20211028180000 -0500" channel="21">
     <title lang="es">Testigo Directo</title>
   </programme>
@@ -3020,7 +3018,7 @@
   <programme start="20211028120000 -0500" stop="20211028130000 -0500" channel="22">
     <title lang="es">Exclusivo</title>
   </programme>
-  <programme start="20211028130000 -0500" stop="20211028140000 -0500" channel="22">
+  <programme start="20211028190000 -0500" stop="20211028200000 -0500" channel="22">
     <title lang="es">Programación videos</title>
   </programme>
   <programme start="20211028200000 -0500" stop="20211028210000 -0500" channel="22">
@@ -3525,8 +3523,8 @@
   <programme start="20211027230000 -0500" stop="20211028000000 -0500" channel="26">
     <title lang="es">La Noche</title>
   </programme>
-  <programme start="20211028130000 -0500" stop="20211028140000 -0500" channel="26">
-    <title lang="es">Planeta Gente</title>
+  <programme start="20211028190000 -0500" stop="20211028200000 -0500" channel="26">
+    <title lang="es">Informativo NTN</title>
   </programme>
   <programme start="20211028200000 -0500" stop="20211028203000 -0500" channel="26">
     <title lang="es">Zoom a la Noticia</title>
@@ -3931,9 +3929,6 @@
     <title lang="xx">Kiko</title>
     <desc lang="es">Kiko, Poly, Lola, Patino y Ting-Ting son cinco amigos que resuelven sus problemas de manera divertida y única en un pequeño pueblo en el fondo del lago.(n)</desc>
   </programme>
-  <programme start="20211028130000 -0500" stop="20211028140000 -0500" channel="28">
-    <title lang="es">Secretos de Australia Salvaje</title>
-  </programme>
   <programme start="20211028150000 -0500" stop="20211028160000 -0500" channel="28">
     <title lang="es">Vida Secreta del Vombatido</title>
   </programme>
@@ -3959,6 +3954,9 @@
     <title lang="es">Kiko</title>
     <title lang="xx">Kiko</title>
     <desc lang="es">Kiko, Poly, Lola, Patino y Ting-Ting son cinco amigos que resuelven sus problemas de manera divertida y única en un pequeño pueblo en el fondo del lago.(n)</desc>
+  </programme>
+  <programme start="20211028190000 -0500" stop="20211028191500 -0500" channel="28">
+    <title lang="es">La Playa de Bob</title>
   </programme>
   <programme start="20211028213000 -0500" stop="20211028214500 -0500" channel="28">
     <title lang="es">Jelly Jamm</title>
@@ -4045,9 +4043,6 @@
   </programme>
   <programme start="20211028080000 -0500" stop="20211028090000 -0500" channel="30">
     <title lang="es">WWE Main Event</title>
-  </programme>
-  <programme start="20211028120000 -0500" stop="20211028150000 -0500" channel="30">
-    <title lang="es">UFC</title>
   </programme>
   <programme start="20211028180000 -0500" stop="20211028190000 -0500" channel="30">
     <title lang="es">WWE Main Event</title>
