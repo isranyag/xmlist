@@ -3678,9 +3678,6 @@
   <programme start="20211029230000 -0500" stop="20211030000000 -0500" channel="22">
     <title lang="es">Programación de videos populares</title>
   </programme>
-  <programme start="20211030070000 -0500" stop="20211030080000 -0500" channel="22">
-    <title lang="es">Programación videos</title>
-  </programme>
   <programme start="20211030100000 -0500" stop="20211030110000 -0500" channel="22">
     <title lang="es">La hora del amor</title>
   </programme>
@@ -3701,6 +3698,9 @@
   </programme>
   <programme start="20211030180000 -0500" stop="20211030190000 -0500" channel="22">
     <title lang="es">Especiales Tele Nostalgia</title>
+  </programme>
+  <programme start="20211030190000 -0500" stop="20211030200000 -0500" channel="22">
+    <title lang="es">Programación videos</title>
   </programme>
   <programme start="20211030200000 -0500" stop="20211030210000 -0500" channel="22">
     <title lang="es">El mano a mano</title>
@@ -3811,9 +3811,6 @@
   </programme>
   <programme start="20211031060500 -0600" stop="20211031070000 -0600" channel="23">
     <title lang="es">Stargate Atlantis</title>
-  </programme>
-  <programme start="20211031070000 -0600" stop="20211031073000 -0600" channel="23">
-    <title lang="es">Paid Program</title>
   </programme>
   <programme start="20211031110000 -0600" stop="20211031110800 -0600" channel="23">
     <title lang="es">Special Program</title>
@@ -4289,6 +4286,9 @@
   <programme start="20211030180000 -0500" stop="20211030190000 -0500" channel="26">
     <title lang="es">Planeta Gente</title>
   </programme>
+  <programme start="20211030190000 -0500" stop="20211030200000 -0500" channel="26">
+    <title lang="es">Informativo NTN</title>
+  </programme>
   <programme start="20211030200000 -0500" stop="20211030203000 -0500" channel="26">
     <title lang="es">Efecto Naím</title>
   </programme>
@@ -4654,9 +4654,6 @@
     <title lang="xx">Kiko</title>
     <desc lang="es">Kiko, Poly, Lola, Patino y Ting-Ting son cinco amigos que resuelven sus problemas de manera divertida y única en un pequeño pueblo en el fondo del lago.(n)</desc>
   </programme>
-  <programme start="20211030070000 -0500" stop="20211030071500 -0500" channel="28">
-    <title lang="es">La Playa de Bob</title>
-  </programme>
   <programme start="20211030080000 -0500" stop="20211030084500 -0500" channel="28">
     <title lang="es">Especiales ZooMoo</title>
   </programme>
@@ -4711,6 +4708,9 @@
     <title lang="es">Kiko</title>
     <title lang="xx">Kiko</title>
     <desc lang="es">Kiko, Poly, Lola, Patino y Ting-Ting son cinco amigos que resuelven sus problemas de manera divertida y única en un pequeño pueblo en el fondo del lago.(n)</desc>
+  </programme>
+  <programme start="20211030190000 -0500" stop="20211030191500 -0500" channel="28">
+    <title lang="es">La Playa de Bob</title>
   </programme>
   <programme start="20211030200000 -0500" stop="20211030204500 -0500" channel="28">
     <title lang="es">Especiales ZooMoo</title>
