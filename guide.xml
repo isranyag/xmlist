@@ -438,8 +438,8 @@
   <programme start="20211031100000 -0600" stop="20211031120000 -0600" channel="3">
     <title lang="es">Reto cuatro elementos</title>
   </programme>
-  <programme start="20211031130000 -0600" stop="20211031140000 -0600" channel="3">
-    <title lang="es">Guerrero Ninja Americano</title>
+  <programme start="20211031180000 -0600" stop="20211031200000 -0600" channel="3">
+    <title lang="es">Marimar</title>
   </programme>
   <programme start="20211030013800 -0500" stop="20211030035100 -0500" channel="4">
     <title lang="es">It (Eso) (2017)</title>
@@ -924,9 +924,6 @@
   </programme>
   <programme start="20211031073000 -0500" stop="20211031080000 -0500" channel="6">
     <title lang="es">Misa</title>
-  </programme>
-  <programme start="20211031130000 -0500" stop="20211031140000 -0500" channel="6">
-    <title lang="es">Desde Cero</title>
   </programme>
   <programme start="20211031190000 -0500" stop="20211031200000 -0500" channel="6">
     <title lang="es">Telediario Dominical</title>
@@ -1557,9 +1554,6 @@
   </programme>
   <programme start="20211031113000 -0500" stop="20211031120000 -0500" channel="10">
     <title lang="es">Animado</title>
-  </programme>
-  <programme start="20211031120000 -0500" stop="20211031180000 -0500" channel="10">
-    <title lang="es">Novedades TV</title>
   </programme>
   <programme start="20211031180000 -0500" stop="20211031183000 -0500" channel="10">
     <title lang="es">Los protagonistas</title>
@@ -3215,6 +3209,9 @@
   <programme start="20211031173000 -0600" stop="20211031190000 -0600" channel="21">
     <title lang="es">The Suso's show</title>
   </programme>
+  <programme start="20211031190000 -0600" stop="20211031203000 -0600" channel="21">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
   <programme start="20211031203000 -0600" stop="20211031213000 -0600" channel="21">
     <title lang="es">Los Informantes</title>
   </programme>
@@ -3801,6 +3798,9 @@
   </programme>
   <programme start="20211031143000 -0500" stop="20211031150000 -0500" channel="26">
     <title lang="es">CST</title>
+  </programme>
+  <programme start="20211031190000 -0500" stop="20211031200000 -0500" channel="26">
+    <title lang="es">Informativo NTN</title>
   </programme>
   <programme start="20211030013700 -0500" stop="20211030040000 -0500" channel="27">
     <title lang="es">Inquebrantable</title>
