@@ -286,6 +286,15 @@
   <programme start="20211103171600 -0600" stop="20211103191900 -0600" channel="2">
     <title lang="es">Rescate en el tiempo</title>
   </programme>
+  <programme start="20211103191900 -0600" stop="20211103210000 -0600" channel="2">
+    <title lang="es">Nacho libre</title>
+  </programme>
+  <programme start="20211103210000 -0600" stop="20211103224500 -0600" channel="2">
+    <title lang="es">El dictador</title>
+  </programme>
+  <programme start="20211103224500 -0600" stop="20211104010300 -0600" channel="2">
+    <title lang="es">Tirador</title>
+  </programme>
   <programme start="20211101010000 -0600" stop="20211101020000 -0600" channel="3">
     <title lang="es">NÚM3ROS</title>
   </programme>
@@ -449,13 +458,13 @@
     <title lang="es">Busqueda explosiva 5 Campo de batalla</title>
   </programme>
   <programme start="20211101140300 -0600" stop="20211101155200 -0600" channel="4">
-    <title lang="es">El Marine 6 Sin escapatoria</title>
+    <title lang="es">El Marine 6: Sin escapatoria</title>
   </programme>
   <programme start="20211101155200 -0600" stop="20211101175800 -0600" channel="4">
     <title lang="es">Legado de mentiras</title>
   </programme>
   <programme start="20211101175800 -0600" stop="20211101195900 -0600" channel="4">
-    <title lang="es">Rendirse jamás 2 Combate final</title>
+    <title lang="es">Rendirse jamás 2: Combate final</title>
   </programme>
   <programme start="20211101195900 -0600" stop="20211101220000 -0600" channel="4">
     <title lang="es">Rompiendo Las Reglas 3</title>
@@ -496,10 +505,16 @@
     <title lang="es">En cielo peligroso</title>
   </programme>
   <programme start="20211102155600 -0600" stop="20211102175700 -0600" channel="4">
-    <title lang="es">Rendirse jamás 2 Combate final</title>
+    <title lang="es">Rendirse jamás 2: Combate final</title>
   </programme>
   <programme start="20211102175700 -0600" stop="20211102195800 -0600" channel="4">
     <title lang="es">Rompiendo Las Reglas 3</title>
+  </programme>
+  <programme start="20211102195800 -0600" stop="20211102220000 -0600" channel="4">
+    <title lang="es">Cage Figther colisión de los mundos</title>
+  </programme>
+  <programme start="20211102220000 -0600" stop="20211103000600 -0600" channel="4">
+    <title lang="es">Golpe De Suerte</title>
   </programme>
   <programme start="20211101002200 -0600" stop="20211101004400 -0600" channel="5">
     <title lang="es">Los Vecinos Green</title>
@@ -1068,8 +1083,8 @@
   <programme start="20211102013000 -0600" stop="20211102043000 -0600" channel="6">
     <title lang="es">Café TV</title>
   </programme>
-  <programme start="20211102130000 -0600" stop="20211102140000 -0600" channel="6">
-    <title lang="es">Telediario</title>
+  <programme start="20211102190000 -0600" stop="20211102200000 -0600" channel="6">
+    <title lang="es">Esta es mi canción</title>
   </programme>
   <programme start="20211101003000 -0600" stop="20211101010000 -0600" channel="7">
     <title lang="es">La Niñera</title>
@@ -1098,7 +1113,19 @@
   <programme start="20211101060000 -0600" stop="20211101061000 -0600" channel="7">
     <title lang="es">Mi Bella Genio</title>
   </programme>
-  <programme start="20211101061000 -0600" stop="20211101080000 -0600" channel="7">
+  <programme start="20211101061000 -0600" stop="20211101063000 -0600" channel="7">
+    <title lang="es">Backyardigans</title>
+  </programme>
+  <programme start="20211101063000 -0600" stop="20211101070000 -0600" channel="7">
+    <title lang="es">Backyardigans</title>
+  </programme>
+  <programme start="20211101070000 -0600" stop="20211101071000 -0600" channel="7">
+    <title lang="es">TC Televisión</title>
+  </programme>
+  <programme start="20211101071000 -0600" stop="20211101074000 -0600" channel="7">
+    <title lang="es">TC Televisión</title>
+  </programme>
+  <programme start="20211101074000 -0600" stop="20211101080000 -0600" channel="7">
     <title lang="es">TC Televisión</title>
   </programme>
   <programme start="20211101080000 -0600" stop="20211101081500 -0600" channel="7">
@@ -1347,8 +1374,9 @@
   <programme start="20211102073000 -0600" stop="20211102093000 -0600" channel="8">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20211102130000 -0600" stop="20211102135500 -0600" channel="8">
-    <title lang="es">24 Horas</title>
+  <programme start="20211102190000 -0600" stop="20211102200000 -0600" channel="8">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.(n)</desc>
   </programme>
   <programme start="20211101010000 -0600" stop="20211101015600 -0600" channel="9">
     <title lang="es">Regreso al mundo Amish</title>
@@ -1470,6 +1498,18 @@
   <programme start="20211102180000 -0600" stop="20211102200000 -0600" channel="9">
     <title lang="es">Todo en 90 días ¿Felices por siempre? ¡de regreso</title>
   </programme>
+  <programme start="20211102200000 -0600" stop="20211102210000 -0600" channel="9">
+    <title lang="es">De tal madre, tal astilla</title>
+  </programme>
+  <programme start="20211102210000 -0600" stop="20211102220000 -0600" channel="9">
+    <title lang="es">De tal madre, tal astilla</title>
+  </programme>
+  <programme start="20211102220000 -0600" stop="20211102230000 -0600" channel="9">
+    <title lang="es">Hermanas inseparables</title>
+  </programme>
+  <programme start="20211102230000 -0600" stop="20211103000000 -0600" channel="9">
+    <title lang="es">Hermanas inseparables</title>
+  </programme>
   <programme start="20211101051500 -0600" stop="20211101053000 -0600" channel="10">
     <title lang="es">Naturichard</title>
   </programme>
@@ -1515,8 +1555,8 @@
   <programme start="20211101230000 -0600" stop="20211102000000 -0600" channel="10">
     <title lang="es">Novedades TV</title>
   </programme>
-  <programme start="20211102130000 -0600" stop="20211102153000 -0600" channel="10">
-    <title lang="es">Retro Cinema</title>
+  <programme start="20211102190000 -0600" stop="20211102200000 -0600" channel="10">
+    <title lang="es">Memorias</title>
   </programme>
   <programme start="20211101100000 -0600" stop="20211101220000 -0600" channel="11">
     <title lang="es">Cinelatino</title>
@@ -1614,7 +1654,7 @@
   <programme start="20211102000000 -0600" stop="20211102003000 -0600" channel="12">
     <title lang="es">Notas divinas</title>
   </programme>
-  <programme start="20211102130000 -0600" stop="20211102133000 -0600" channel="12">
+  <programme start="20211102190000 -0600" stop="20211102200000 -0600" channel="12">
     <title lang="es">Lo mejor en carne propia</title>
   </programme>
   <programme start="20211101010000 -0600" stop="20211101020000 -0600" channel="13">
@@ -1630,7 +1670,7 @@
     <title lang="es">WWE Raw</title>
   </programme>
   <programme start="20211101080000 -0600" stop="20211101100000 -0600" channel="13">
-    <title lang="es">WWE Smackdown</title>
+    <title lang="es">WWE SmackDown</title>
   </programme>
   <programme start="20211101100000 -0600" stop="20211101120000 -0600" channel="13">
     <title lang="es">Fórmula 1</title>
@@ -1830,6 +1870,21 @@
   <programme start="20211102180000 -0600" stop="20211102190000 -0600" channel="14">
     <title lang="es">La peor pesadilla</title>
   </programme>
+  <programme start="20211102190000 -0600" stop="20211102200000 -0600" channel="14">
+    <title lang="es">La peor pesadilla</title>
+  </programme>
+  <programme start="20211102200000 -0600" stop="20211102210000 -0600" channel="14">
+    <title lang="es">Asesino serial maldad desencadenada</title>
+  </programme>
+  <programme start="20211102210000 -0600" stop="20211102220000 -0600" channel="14">
+    <title lang="es">Asesino serial maldad desencadenada</title>
+  </programme>
+  <programme start="20211102220000 -0600" stop="20211102230000 -0600" channel="14">
+    <title lang="es">Declaraciones Impactantes</title>
+  </programme>
+  <programme start="20211102230000 -0600" stop="20211103000000 -0600" channel="14">
+    <title lang="es">Lazo siniestro</title>
+  </programme>
   <programme start="20211101004500 -0600" stop="20211101023500 -0600" channel="15">
     <title lang="es">Puerta al infierno</title>
   </programme>
@@ -1910,6 +1965,17 @@
   </programme>
   <programme start="20211103171500 -0600" stop="20211103191500 -0600" channel="15">
     <title lang="es">Fenómeno en la oscuridad</title>
+  </programme>
+  <programme start="20211103191500 -0600" stop="20211103210000 -0600" channel="15">
+    <title lang="es">Regreso mortal</title>
+  </programme>
+  <programme start="20211103210000 -0600" stop="20211103225500 -0600" channel="15">
+    <title lang="es">La Maldición de la Ouija (2018)</title>
+    <title lang="xx">Ouija House</title>
+    <desc lang="es">Una mujer lleva a sus amigos a la antigua casa de su familia para un proyecto de investigación paranormal sin saber que se desatará una fuerza siniestra.(n)</desc>
+  </programme>
+  <programme start="20211103225500 -0600" stop="20211104003500 -0600" channel="15">
+    <title lang="es">Piraña 2</title>
   </programme>
   <programme start="20211101004500 -0600" stop="20211101065900 -0600" channel="16">
     <title lang="es">Lo Mejor de Guerra de Narcos</title>
@@ -2049,6 +2115,24 @@
   <programme start="20211102180000 -0600" stop="20211102190000 -0600" channel="16">
     <title lang="es">Tesoros Perdidos de Egipto</title>
   </programme>
+  <programme start="20211102190000 -0600" stop="20211102200000 -0600" channel="16">
+    <title lang="es">Mayday Catastrofes aereas</title>
+  </programme>
+  <programme start="20211102200000 -0600" stop="20211102210000 -0600" channel="16">
+    <title lang="es">Alerta Aeropuerto</title>
+  </programme>
+  <programme start="20211102210000 -0600" stop="20211102220000 -0600" channel="16">
+    <title lang="es">Operación Naufragios</title>
+  </programme>
+  <programme start="20211102220000 -0600" stop="20211102225500 -0600" channel="16">
+    <title lang="es">Operación Naufragios</title>
+  </programme>
+  <programme start="20211102225500 -0600" stop="20211102235000 -0600" channel="16">
+    <title lang="es">Revelaciones del antiguo Egipto</title>
+  </programme>
+  <programme start="20211102235000 -0600" stop="20211103005000 -0600" channel="16">
+    <title lang="es">Realeza al Descubierto</title>
+  </programme>
   <programme start="20211101010000 -0600" stop="20211101030000 -0600" channel="17">
     <title lang="es">Minnesota United FC vs. Sporting Kansas City</title>
   </programme>
@@ -2129,6 +2213,12 @@
   <programme start="20211103180000 -0600" stop="20211103190000 -0600" channel="17">
     <title lang="es">SportsCenter</title>
     <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+  </programme>
+  <programme start="20211103190000 -0600" stop="20211103210000 -0600" channel="17">
+    <title lang="es">Forge vs. Santos de Guápiles</title>
+  </programme>
+  <programme start="20211103210000 -0600" stop="20211103230000 -0600" channel="17">
+    <title lang="es">CD Motagua (Hon) vs. Marathon</title>
   </programme>
   <programme start="20211101001100 -0600" stop="20211101002500 -0600" channel="18">
     <title lang="es">La magia de Sadie</title>
@@ -2682,6 +2772,67 @@
   <programme start="20211102185100 -0600" stop="20211102190200 -0600" channel="18">
     <title lang="es">Supermonstruos</title>
   </programme>
+  <programme start="20211102190200 -0600" stop="20211102190700 -0600" channel="18">
+    <title lang="es">Peppa Pig</title>
+    <title lang="xx">Peppa Pig</title>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo.(n)</desc>
+  </programme>
+  <programme start="20211102190700 -0600" stop="20211102191200 -0600" channel="18">
+    <title lang="es">Peppa Pig</title>
+    <title lang="xx">Peppa Pig</title>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo.(n)</desc>
+  </programme>
+  <programme start="20211102191200 -0600" stop="20211102191700 -0600" channel="18">
+    <title lang="es">Peppa Pig</title>
+    <title lang="xx">Peppa Pig</title>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo.(n)</desc>
+  </programme>
+  <programme start="20211102191700 -0600" stop="20211102194400 -0600" channel="18">
+    <title lang="es">Peppa Pig</title>
+    <title lang="xx">Peppa Pig</title>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo.(n)</desc>
+  </programme>
+  <programme start="20211102194400 -0600" stop="20211102201100 -0600" channel="18">
+    <title lang="es">Peppa Pig</title>
+    <title lang="xx">Peppa Pig</title>
+    <desc lang="es">Peppa es una adorable cerdita mandona que disfruta jugar en el parque con sus amigos, vestirse, pasar el día con su familia y saltar en charcos de lodo.(n)</desc>
+  </programme>
+  <programme start="20211102203700 -0600" stop="20211102204800 -0600" channel="18">
+    <title lang="es">The Dog &amp; Pony Show</title>
+  </programme>
+  <programme start="20211102204800 -0600" stop="20211102210300 -0600" channel="18">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20211102210300 -0600" stop="20211102211300 -0600" channel="18">
+    <title lang="es">Cazadores de Monstruos</title>
+  </programme>
+  <programme start="20211102211300 -0600" stop="20211102213900 -0600" channel="18">
+    <title lang="es">Polly Pocket</title>
+  </programme>
+  <programme start="20211102215000 -0600" stop="20211102220600 -0600" channel="18">
+    <title lang="es">Las aventuras de los Boonie Bears</title>
+  </programme>
+  <programme start="20211102220600 -0600" stop="20211102221700 -0600" channel="18">
+    <title lang="es">Las aventuras de los Boonie Bears</title>
+  </programme>
+  <programme start="20211102221700 -0600" stop="20211102223300 -0600" channel="18">
+    <title lang="es">Primaria de héroes</title>
+  </programme>
+  <programme start="20211102223300 -0600" stop="20211102224400 -0600" channel="18">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20211102224400 -0600" stop="20211102225900 -0600" channel="18">
+    <title lang="es">Supermonstruos</title>
+  </programme>
+  <programme start="20211102225900 -0600" stop="20211102232500 -0600" channel="18">
+    <title lang="es">100% Lobo La leyenda del anillo lunar</title>
+  </programme>
+  <programme start="20211102232500 -0600" stop="20211102233700 -0600" channel="18">
+    <title lang="es">44 gatos</title>
+  </programme>
+  <programme start="20211102233700 -0600" stop="20211103000700 -0600" channel="18">
+    <title lang="es">Pac-Man y las aventuras fantasmales</title>
+  </programme>
   <programme start="20211101014000 -0600" stop="20211101025500 -0600" channel="19">
     <title lang="es">Asuntos eróticos vol. 2</title>
   </programme>
@@ -2760,6 +2911,15 @@
   <programme start="20211102172000 -0600" stop="20211102191000 -0600" channel="19">
     <title lang="es">Secretos mortales</title>
   </programme>
+  <programme start="20211102191000 -0600" stop="20211102210000 -0600" channel="19">
+    <title lang="es">Mi segunda vez</title>
+  </programme>
+  <programme start="20211102210000 -0600" stop="20211102232500 -0600" channel="19">
+    <title lang="es">Frida, matices de una pasión</title>
+  </programme>
+  <programme start="20211102232500 -0600" stop="20211103012000 -0600" channel="19">
+    <title lang="es">Sex Tape Nuestro video prohibido</title>
+  </programme>
   <programme start="20211101010000 -0600" stop="20211101020000 -0600" channel="20">
     <title lang="es">Review</title>
   </programme>
@@ -2788,7 +2948,7 @@
     <title lang="es">Expediente fútbol</title>
   </programme>
   <programme start="20211101140000 -0600" stop="20211101160000 -0600" channel="20">
-    <title lang="es">WWE Smackdown</title>
+    <title lang="es">WWE SmackDown</title>
   </programme>
   <programme start="20211101160000 -0600" stop="20211101180000 -0600" channel="20">
     <title lang="es">UFC Clásicos</title>
@@ -3075,10 +3235,10 @@
   <programme start="20211102100000 -0600" stop="20211102110000 -0600" channel="22">
     <title lang="es">Estudio abierto</title>
   </programme>
-  <programme start="20211102130000 -0600" stop="20211102140000 -0600" channel="22">
+  <programme start="20211102180000 -0600" stop="20211102190000 -0600" channel="22">
     <title lang="es">Programación videos</title>
   </programme>
-  <programme start="20211102180000 -0600" stop="20211102190000 -0600" channel="22">
+  <programme start="20211102190000 -0600" stop="20211102200000 -0600" channel="22">
     <title lang="es">Programación videos</title>
   </programme>
   <programme start="20211102200000 -0600" stop="20211102210000 -0600" channel="22">
@@ -3169,6 +3329,17 @@
   <programme start="20211102170000 -0600" stop="20211102190500 -0600" channel="23">
     <title lang="es">Comando especial 2</title>
   </programme>
+  <programme start="20211102190500 -0600" stop="20211102210000 -0600" channel="23">
+    <title lang="es">Feliz Día de tu Muerte</title>
+    <title lang="xx">Happy Death Day</title>
+    <desc lang="es">Una estudiante universitaria que en el día de su cumpleaños es asesinada por un enmascarado.  Ella revivirá cada vez hasta que descubra quien es su asesino.(n)</desc>
+  </programme>
+  <programme start="20211102210000 -0600" stop="20211102224000 -0600" channel="23">
+    <title lang="es">La fiesta de las salchichas</title>
+  </programme>
+  <programme start="20211102224000 -0600" stop="20211103002000 -0600" channel="23">
+    <title lang="es">Scary Movie 3 No hay dos sin 3</title>
+  </programme>
   <programme start="20211101005800 -0600" stop="20211101014800 -0600" channel="24">
     <title lang="es">Worst Cooks in América</title>
   </programme>
@@ -3191,7 +3362,7 @@
     <title lang="es">Cake Boss</title>
   </programme>
   <programme start="20211101063000 -0600" stop="20211101072400 -0600" channel="24">
-    <title lang="es">¡No te lo pongas</title>
+    <title lang="es">No te lo pongas</title>
   </programme>
   <programme start="20211101072400 -0600" stop="20211101075400 -0600" channel="24">
     <title lang="es">Historia de un bebé</title>
@@ -3319,6 +3490,15 @@
   <programme start="20211102180200 -0600" stop="20211102190200 -0600" channel="24">
     <title lang="es">Hermanos a la obra</title>
   </programme>
+  <programme start="20211102190200 -0600" stop="20211102200000 -0600" channel="24">
+    <title lang="es">Campeonato de reposteros Halloween</title>
+  </programme>
+  <programme start="20211102200000 -0600" stop="20211102220000 -0600" channel="24">
+    <title lang="es">Buddy vs Duff</title>
+  </programme>
+  <programme start="20211102231000 -0600" stop="20211103000800 -0600" channel="24">
+    <title lang="es">Sabotaje en la cocina</title>
+  </programme>
   <programme start="20211101002000 -0600" stop="20211101012000 -0600" channel="25">
     <title lang="es">Cámara policial</title>
   </programme>
@@ -3365,7 +3545,7 @@
     <title lang="es">Expedición a lo desconocido después de la aventura</title>
   </programme>
   <programme start="20211101130000 -0600" stop="20211101140000 -0600" channel="25">
-    <title lang="es">Supervivencia al desnudo Edición extrema</title>
+    <title lang="es">Supervivencia al desnudo: Edición extrema</title>
   </programme>
   <programme start="20211101140000 -0600" stop="20211101150000 -0600" channel="25">
     <title lang="es">Enigma</title>
@@ -3386,13 +3566,13 @@
     <title lang="es">Unidos en el peligro</title>
   </programme>
   <programme start="20211101200000 -0600" stop="20211101220000 -0600" channel="25">
-    <title lang="es">Supervivencia al desnudo Edición extrema</title>
+    <title lang="es">Supervivencia al desnudo: Edición extrema</title>
   </programme>
   <programme start="20211101220000 -0600" stop="20211101225800 -0600" channel="25">
-    <title lang="es">Supervivencia al desnudo Edición extrema</title>
+    <title lang="es">Supervivencia al desnudo: Edición extrema</title>
   </programme>
   <programme start="20211101225800 -0600" stop="20211101235600 -0600" channel="25">
-    <title lang="es">Supervivencia al desnudo Edición extrema</title>
+    <title lang="es">Supervivencia al desnudo: Edición extrema</title>
   </programme>
   <programme start="20211101235600 -0600" stop="20211102005600 -0600" channel="25">
     <title lang="es">Unidos en el peligro</title>
@@ -3440,7 +3620,7 @@
     <title lang="es">Expedición a lo desconocido después de la aventura</title>
   </programme>
   <programme start="20211102130400 -0600" stop="20211102140400 -0600" channel="25">
-    <title lang="es">Supervivencia al desnudo Edición extrema</title>
+    <title lang="es">Supervivencia al desnudo: Edición extrema</title>
   </programme>
   <programme start="20211102140400 -0600" stop="20211102150400 -0600" channel="25">
     <title lang="es">Motocicletas Kaplan</title>
@@ -3456,6 +3636,21 @@
   </programme>
   <programme start="20211102180000 -0600" stop="20211102190000 -0600" channel="25">
     <title lang="es">Fuga casi perfecta</title>
+  </programme>
+  <programme start="20211102190000 -0600" stop="20211102200000 -0600" channel="25">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20211102200000 -0600" stop="20211102210000 -0600" channel="25">
+    <title lang="es">Desolado con Ed Stafford</title>
+  </programme>
+  <programme start="20211102210000 -0600" stop="20211102220000 -0600" channel="25">
+    <title lang="es">Alaska: Hombres primitivos</title>
+  </programme>
+  <programme start="20211102220000 -0600" stop="20211102230000 -0600" channel="25">
+    <title lang="es">Misterios de las profundidades</title>
+  </programme>
+  <programme start="20211102230000 -0600" stop="20211103000000 -0600" channel="25">
+    <title lang="es">La maldición del Triángulo de las Bermudas</title>
   </programme>
   <programme start="20211101010100 -0600" stop="20211101023000 -0600" channel="26">
     <title lang="es">La Tarde</title>
@@ -3541,11 +3736,11 @@
   <programme start="20211102090000 -0600" stop="20211102100000 -0600" channel="26">
     <title lang="es">Zoom a la Noticia</title>
   </programme>
-  <programme start="20211102130000 -0600" stop="20211102140000 -0600" channel="26">
-    <title lang="es">Planeta Gente</title>
-  </programme>
   <programme start="20211102180000 -0600" stop="20211102190000 -0600" channel="26">
     <title lang="es">La Noche</title>
+  </programme>
+  <programme start="20211102190000 -0600" stop="20211102200000 -0600" channel="26">
+    <title lang="es">Informativo NTN</title>
   </programme>
   <programme start="20211102230000 -0600" stop="20211103000000 -0600" channel="26">
     <title lang="es">La Noche</title>
@@ -3579,7 +3774,7 @@
     <title lang="es">Puntos de vista</title>
   </programme>
   <programme start="20211101150600 -0600" stop="20211101171700 -0600" channel="27">
-    <title lang="es">Golpe Bajo El Juego Final</title>
+    <title lang="es">Golpe bajo: El juego final</title>
   </programme>
   <programme start="20211101171700 -0600" stop="20211101195900 -0600" channel="27">
     <title lang="es">Rápidos y Furiosos 7</title>
@@ -3613,7 +3808,7 @@
     <title lang="es">Puntos de vista</title>
   </programme>
   <programme start="20211103085300 -0600" stop="20211103110600 -0600" channel="27">
-    <title lang="es">Golpe Bajo El Juego Final</title>
+    <title lang="es">Golpe bajo: El juego final</title>
   </programme>
   <programme start="20211103110600 -0600" stop="20211103142900 -0600" channel="27">
     <title lang="es">Dos Armas Letales</title>
@@ -3988,6 +4183,9 @@
     <title lang="es">Kiko</title>
     <title lang="xx">Kiko</title>
     <desc lang="es">Kiko, Poly, Lola, Patino y Ting-Ting son cinco amigos que resuelven sus problemas de manera divertida y única en un pequeño pueblo en el fondo del lago.(n)</desc>
+  </programme>
+  <programme start="20211102190000 -0600" stop="20211102191500 -0600" channel="28">
+    <title lang="es">La Playa de Bob</title>
   </programme>
   <programme start="20211102213000 -0600" stop="20211102214500 -0600" channel="28">
     <title lang="es">Jelly Jamm</title>
