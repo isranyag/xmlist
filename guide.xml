@@ -225,34 +225,34 @@
     <title lang="es">Sharon la hechicera</title>
   </programme>
   <programme start="20211102011500 -0600" stop="20211102025400 -0600" channel="2">
-    <title lang="es">Vampiros Los muertos</title>
+    <title lang="es">Vampiros, Los Muertos</title>
   </programme>
   <programme start="20211102025400 -0600" stop="20211102050000 -0600" channel="2">
     <title lang="es">Tiburón</title>
   </programme>
   <programme start="20211102050000 -0600" stop="20211102053000 -0600" channel="2">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102053000 -0600" stop="20211102060000 -0600" channel="2">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102060000 -0600" stop="20211102063000 -0600" channel="2">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102063000 -0600" stop="20211102070000 -0600" channel="2">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102070000 -0600" stop="20211102073000 -0600" channel="2">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102073000 -0600" stop="20211102080000 -0600" channel="2">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102080000 -0600" stop="20211102083000 -0600" channel="2">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102083000 -0600" stop="20211102092900 -0600" channel="2">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102092900 -0600" stop="20211102113300 -0600" channel="2">
     <title lang="es">Cambio de Vida</title>
@@ -285,7 +285,7 @@
     <title lang="es">Buena hamburguesa</title>
   </programme>
   <programme start="20211103083000 -0600" stop="20211103101300 -0600" channel="2">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211103101300 -0600" stop="20211103115500 -0600" channel="2">
     <title lang="es">Nacho libre</title>
@@ -340,7 +340,7 @@
     <title lang="es">Noticias de la mañana</title>
   </programme>
   <programme start="20211102110000 -0600" stop="20211102120000 -0600" channel="3">
-    <title lang="es">Mujer, casos de la vida real</title>
+    <title lang="es">Mujer... Casos de la vida real</title>
   </programme>
   <programme start="20211102120000 -0600" stop="20211102130000 -0600" channel="3">
     <title lang="es">La Familia de Mi Esposo</title>
@@ -378,7 +378,7 @@
   <programme start="20211102230000 -0600" stop="20211103000000 -0600" channel="3">
     <title lang="es">Suleimán, el sultán</title>
   </programme>
-  <programme start="20211103130000 -0600" stop="20211103140000 -0600" channel="3">
+  <programme start="20211103190000 -0600" stop="20211103200000 -0600" channel="3">
     <title lang="es">La Rosa de Guadalupe</title>
   </programme>
   <programme start="20211102000300 -0600" stop="20211102013800 -0600" channel="4">
@@ -981,8 +981,8 @@
   <programme start="20211102230000 -0600" stop="20211103000000 -0600" channel="6">
     <title lang="es">Rodando Ecuador</title>
   </programme>
-  <programme start="20211103130000 -0600" stop="20211103140000 -0600" channel="6">
-    <title lang="es">Telediario</title>
+  <programme start="20211103190000 -0600" stop="20211103200000 -0600" channel="6">
+    <title lang="es">Esta es mi canción</title>
   </programme>
   <programme start="20211102010000 -0600" stop="20211102011500 -0600" channel="7">
     <title lang="es">La Niñera</title>
@@ -990,7 +990,10 @@
   <programme start="20211102011500 -0600" stop="20211102013000 -0600" channel="7">
     <title lang="es">Matrimonio con Hijos</title>
   </programme>
-  <programme start="20211102013000 -0600" stop="20211102020000 -0600" channel="7">
+  <programme start="20211102013000 -0600" stop="20211102014500 -0600" channel="7">
+    <title lang="es">Matrimonio con Hijos</title>
+  </programme>
+  <programme start="20211102014500 -0600" stop="20211102020000 -0600" channel="7">
     <title lang="es">Matrimonio con Hijos</title>
   </programme>
   <programme start="20211102020000 -0600" stop="20211102030000 -0600" channel="7">
@@ -1000,73 +1003,133 @@
     <title lang="es">Novedades TV</title>
   </programme>
   <programme start="20211102040000 -0600" stop="20211102050000 -0600" channel="7">
-    <title lang="es">Educa</title>
+    <title lang="es">Educa TV</title>
   </programme>
-  <programme start="20211102050000 -0600" stop="20211102054500 -0600" channel="7">
-    <title lang="es">A confirmar</title>
+  <programme start="20211102050000 -0600" stop="20211102051500 -0600" channel="7">
+    <title lang="es">José de los Santos</title>
   </programme>
-  <programme start="20211102054500 -0600" stop="20211102070000 -0600" channel="7">
-    <title lang="es">DespiérTC</title>
+  <programme start="20211102051500 -0600" stop="20211102053000 -0600" channel="7">
+    <title lang="es">Hechizada</title>
   </programme>
-  <programme start="20211102070000 -0600" stop="20211102083000 -0600" channel="7">
-    <title lang="es">El noticiero - 1era emisión</title>
+  <programme start="20211102053000 -0600" stop="20211102055000 -0600" channel="7">
+    <title lang="es">Hechizada</title>
   </programme>
-  <programme start="20211102083000 -0600" stop="20211102100000 -0600" channel="7">
-    <title lang="es">Entre ellas</title>
+  <programme start="20211102055000 -0600" stop="20211102060000 -0600" channel="7">
+    <title lang="es">Hechizada</title>
   </programme>
-  <programme start="20211102100000 -0600" stop="20211102113000 -0600" channel="7">
-    <title lang="es">De Casa en Casa</title>
+  <programme start="20211102060000 -0600" stop="20211102063000 -0600" channel="7">
+    <title lang="es">Backyardigans</title>
   </programme>
-  <programme start="20211102113000 -0600" stop="20211102123000 -0600" channel="7">
-    <title lang="es">Caso cerrado Edición estelar</title>
+  <programme start="20211102063000 -0600" stop="20211102070000 -0600" channel="7">
+    <title lang="es">Backyardigans</title>
   </programme>
-  <programme start="20211102123000 -0600" stop="20211102140000 -0600" channel="7">
-    <title lang="es">El Noticiero - 2da. emisión</title>
+  <programme start="20211102070000 -0600" stop="20211102071500 -0600" channel="7">
+    <title lang="es">Mi pequeño pony</title>
   </programme>
-  <programme start="20211102140000 -0600" stop="20211102150000 -0600" channel="7">
-    <title lang="es">Rendón y La Bombón</title>
+  <programme start="20211102071500 -0600" stop="20211102073000 -0600" channel="7">
+    <title lang="es">Mi pequeño pony</title>
   </programme>
-  <programme start="20211102150000 -0600" stop="20211102160000 -0600" channel="7">
-    <title lang="es">Historias de la vírgen morena</title>
+  <programme start="20211102073000 -0600" stop="20211102080000 -0600" channel="7">
+    <title lang="es">Los Padrinos Mágicos</title>
+    <title lang="xx">The Fairly OddParents</title>
+    <desc lang="es">Un niño tiene dos padrinos mágicos que pueden hacer realidad todos sus deseos, pero debe tener cuidado con lo que pide porque a veces pueden ser peligrosos.(n)</desc>
   </programme>
-  <programme start="20211102160000 -0600" stop="20211102173000 -0600" channel="7">
-    <title lang="es">De boca en boca</title>
+  <programme start="20211102080000 -0600" stop="20211102083000 -0600" channel="7">
+    <title lang="es">Los Padrinos Mágicos</title>
+    <title lang="xx">The Fairly OddParents</title>
+    <desc lang="es">Un niño tiene dos padrinos mágicos que pueden hacer realidad todos sus deseos, pero debe tener cuidado con lo que pide porque a veces pueden ser peligrosos.(n)</desc>
   </programme>
-  <programme start="20211102173000 -0600" stop="20211102190000 -0600" channel="7">
-    <title lang="es">Soy el mejor</title>
+  <programme start="20211102083000 -0600" stop="20211102090000 -0600" channel="7">
+    <title lang="es">Los Padrinos Mágicos</title>
+    <title lang="xx">The Fairly OddParents</title>
+    <desc lang="es">Un niño tiene dos padrinos mágicos que pueden hacer realidad todos sus deseos, pero debe tener cuidado con lo que pide porque a veces pueden ser peligrosos.(n)</desc>
+  </programme>
+  <programme start="20211102090000 -0600" stop="20211102093000 -0600" channel="7">
+    <title lang="es">PJ Masks héroes en pijamas</title>
+  </programme>
+  <programme start="20211102093000 -0600" stop="20211102103000 -0600" channel="7">
+    <title lang="es">La leyenda de Blanca Nieves</title>
+  </programme>
+  <programme start="20211102103000 -0600" stop="20211102120000 -0600" channel="7">
+    <title lang="es">El libro de la selva</title>
+  </programme>
+  <programme start="20211102120000 -0600" stop="20211102133000 -0600" channel="7">
+    <title lang="es">Barbie La princesa y la estrella de pop</title>
+  </programme>
+  <programme start="20211102133000 -0600" stop="20211102153000 -0600" channel="7">
+    <title lang="es">Ratchet y Clank</title>
+  </programme>
+  <programme start="20211102153000 -0600" stop="20211102170000 -0600" channel="7">
+    <title lang="es">Animales al ataque</title>
+  </programme>
+  <programme start="20211102170000 -0600" stop="20211102190000 -0600" channel="7">
+    <title lang="es">Beethoven 5</title>
   </programme>
   <programme start="20211102190000 -0600" stop="20211102203000 -0600" channel="7">
     <title lang="es">El Noticiero - 3ra emisión</title>
   </programme>
-  <programme start="20211102203000 -0600" stop="20211102213000 -0600" channel="7">
-    <title lang="es">Casi cuarentonas</title>
+  <programme start="20211102203000 -0600" stop="20211102210000 -0600" channel="7">
+    <title lang="es">Tras cámaras casi cuarentonas</title>
   </programme>
-  <programme start="20211102213000 -0600" stop="20211102220000 -0600" channel="7">
+  <programme start="20211102210000 -0600" stop="20211102220000 -0600" channel="7">
     <title lang="es">Amor de familia</title>
   </programme>
   <programme start="20211102220000 -0600" stop="20211102230000 -0600" channel="7">
     <title lang="es">Vera... a su manera</title>
   </programme>
-  <programme start="20211102230000 -0600" stop="20211102233000 -0600" channel="7">
+  <programme start="20211102230000 -0600" stop="20211103000000 -0600" channel="7">
     <title lang="es">Alerta Roja</title>
   </programme>
-  <programme start="20211102233000 -0600" stop="20211103000000 -0600" channel="7">
+  <programme start="20211103000000 -0600" stop="20211103010000 -0600" channel="7">
     <title lang="es">Caso cerrado Edición estelar</title>
   </programme>
-  <programme start="20211103123000 -0600" stop="20211103130000 -0600" channel="7">
-    <title lang="es">TC Televisión</title>
+  <programme start="20211103010000 -0600" stop="20211103013000 -0600" channel="7">
+    <title lang="es">Matrimonio con Hijos</title>
   </programme>
-  <programme start="20211103130000 -0600" stop="20211103133000 -0600" channel="7">
-    <title lang="es">TC Televisión</title>
+  <programme start="20211103013000 -0600" stop="20211103014500 -0600" channel="7">
+    <title lang="es">Matrimonio con Hijos</title>
+  </programme>
+  <programme start="20211103014500 -0600" stop="20211103020000 -0600" channel="7">
+    <title lang="es">Matrimonio con Hijos</title>
+  </programme>
+  <programme start="20211103020000 -0600" stop="20211103030000 -0600" channel="7">
+    <title lang="es">Novedades TV</title>
+  </programme>
+  <programme start="20211103030000 -0600" stop="20211103040000 -0600" channel="7">
+    <title lang="es">Novedades TV</title>
+  </programme>
+  <programme start="20211103040000 -0600" stop="20211103050000 -0600" channel="7">
+    <title lang="es">Educa TV</title>
+  </programme>
+  <programme start="20211103050000 -0600" stop="20211103051500 -0600" channel="7">
+    <title lang="es">José de los Santos</title>
+  </programme>
+  <programme start="20211103051500 -0600" stop="20211103060000 -0600" channel="7">
+    <title lang="es">Noticiero al Cierre</title>
+  </programme>
+  <programme start="20211103060000 -0600" stop="20211103063000 -0600" channel="7">
+    <title lang="es">Backyardigans</title>
+  </programme>
+  <programme start="20211103063000 -0600" stop="20211103070000 -0600" channel="7">
+    <title lang="es">Backyardigans</title>
+  </programme>
+  <programme start="20211103070000 -0600" stop="20211103083000 -0600" channel="7">
+    <title lang="es">El diario de Barbie</title>
+  </programme>
+  <programme start="20211103083000 -0600" stop="20211103100000 -0600" channel="7">
+    <title lang="es">Barbie Fairytopia Mermaidia</title>
+  </programme>
+  <programme start="20211103100000 -0600" stop="20211103113000 -0600" channel="7">
+    <title lang="es">Pocahontas La Princesa de los Indios Americanos</title>
+  </programme>
+  <programme start="20211103113000 -0600" stop="20211103133000 -0600" channel="7">
+    <title lang="es">Simba, el rey león</title>
   </programme>
   <programme start="20211103133000 -0600" stop="20211103150000 -0600" channel="7">
     <title lang="es">Norman del Norte</title>
   </programme>
-  <programme start="20211103150000 -0600" stop="20211103160000 -0600" channel="7">
-    <title lang="es">Historias de la vírgen morena</title>
-  </programme>
-  <programme start="20211103160000 -0600" stop="20211103173000 -0600" channel="7">
-    <title lang="es">De boca en boca</title>
+  <programme start="20211103150000 -0600" stop="20211103173000 -0600" channel="7">
+    <title lang="es">Las vacaciones de Mr. Bean</title>
   </programme>
   <programme start="20211103173000 -0600" stop="20211103190000 -0600" channel="7">
     <title lang="es">Soy el mejor</title>
@@ -1079,15 +1142,6 @@
   </programme>
   <programme start="20211103213000 -0600" stop="20211103220000 -0600" channel="7">
     <title lang="es">Amor de familia</title>
-  </programme>
-  <programme start="20211103220000 -0600" stop="20211103230000 -0600" channel="7">
-    <title lang="es">Vera... a su manera</title>
-  </programme>
-  <programme start="20211103230000 -0600" stop="20211103233000 -0600" channel="7">
-    <title lang="es">Alerta Roja</title>
-  </programme>
-  <programme start="20211103233000 -0600" stop="20211104000000 -0600" channel="7">
-    <title lang="es">Caso cerrado Edición estelar</title>
   </programme>
   <programme start="20211102001500 -0600" stop="20211102011500 -0600" channel="8">
     <title lang="es">Homeland</title>
@@ -1109,20 +1163,30 @@
   <programme start="20211102033000 -0600" stop="20211102040000 -0600" channel="8">
     <title lang="es">Educa</title>
   </programme>
-  <programme start="20211102040000 -0600" stop="20211102050000 -0600" channel="8">
-    <title lang="es">Search</title>
+  <programme start="20211102040000 -0600" stop="20211102041500 -0600" channel="8">
+    <title lang="es">Programación no disponible</title>
+  </programme>
+  <programme start="20211102041500 -0600" stop="20211102050000 -0600" channel="8">
+    <title lang="es">Search WWW</title>
   </programme>
   <programme start="20211102050000 -0600" stop="20211102060000 -0600" channel="8">
-    <title lang="es">Pedro el Escamoso</title>
+    <title lang="es">Jimmy Neutrón</title>
   </programme>
-  <programme start="20211102060000 -0600" stop="20211102065500 -0600" channel="8">
-    <title lang="es">24 Horas</title>
+  <programme start="20211102060000 -0600" stop="20211102063000 -0600" channel="8">
+    <title lang="es">Una casa de locos</title>
+    <title lang="xx">The Loud House</title>
+    <desc lang="es">Con la ayuda de su mejor amigo, un niño de 11 años desarrolla estrategias nuevas cada día para poder sobrevivir al caos que provocan sus diez hermanas.(n)</desc>
   </programme>
-  <programme start="20211102065500 -0600" stop="20211102073000 -0600" channel="8">
-    <title lang="es">Los Desayunos De 24 Horas</title>
+  <programme start="20211102063000 -0600" stop="20211102071500 -0600" channel="8">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+    <title lang="xx">The Penguins of Madagascar</title>
+    <desc lang="es">Cuatro pingüinos que viven en el zoológico de Central Park en Nueva York deben usar sus habilidades de comando de primer nivel para resolver misiones.(n)</desc>
   </programme>
-  <programme start="20211102073000 -0600" stop="20211102093000 -0600" channel="8">
-    <title lang="es">24 Horas</title>
+  <programme start="20211102071500 -0600" stop="20211102074500 -0600" channel="8">
+    <title lang="es">Las aventuras del Gato con Botas</title>
+  </programme>
+  <programme start="20211102074500 -0600" stop="20211102093000 -0600" channel="8">
+    <title lang="es">Un cuento americano</title>
   </programme>
   <programme start="20211102093000 -0600" stop="20211102113000 -0600" channel="8">
     <title lang="es">Madre</title>
@@ -1130,20 +1194,15 @@
   <programme start="20211102113000 -0600" stop="20211102123000 -0600" channel="8">
     <title lang="es">Boys Over Flowers</title>
   </programme>
-  <programme start="20211102123000 -0600" stop="20211102130000 -0600" channel="8">
-    <title lang="es">Ace of cakes</title>
+  <programme start="20211102123000 -0600" stop="20211102124500 -0600" channel="8">
+    <title lang="es">Programación no disponible</title>
   </programme>
-  <programme start="20211102130000 -0600" stop="20211102135500 -0600" channel="8">
-    <title lang="es">24 Horas</title>
+  <programme start="20211102124500 -0600" stop="20211102133000 -0600" channel="8">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.(n)</desc>
   </programme>
-  <programme start="20211102135500 -0600" stop="20211102143000 -0600" channel="8">
-    <title lang="es">Comunidad</title>
-  </programme>
-  <programme start="20211102143000 -0600" stop="20211102144200 -0600" channel="8">
-    <title lang="es">En Corto</title>
-  </programme>
-  <programme start="20211102144200 -0600" stop="20211102150000 -0600" channel="8">
-    <title lang="es">Deporte Total</title>
+  <programme start="20211102133000 -0600" stop="20211102150000 -0600" channel="8">
+    <title lang="es">Marmaduke</title>
   </programme>
   <programme start="20211102150000 -0600" stop="20211102160000 -0600" channel="8">
     <title lang="es">Bob Esponja</title>
@@ -1169,11 +1228,8 @@
   <programme start="20211102200000 -0600" stop="20211102210000 -0600" channel="8">
     <title lang="es">24 Horas</title>
   </programme>
-  <programme start="20211102210000 -0600" stop="20211102220000 -0600" channel="8">
-    <title lang="es">El Doctor milagro</title>
-  </programme>
-  <programme start="20211102220000 -0600" stop="20211102224500 -0600" channel="8">
-    <title lang="es">Enfermeras</title>
+  <programme start="20211102210000 -0600" stop="20211102224500 -0600" channel="8">
+    <title lang="es">Todo un parto</title>
   </programme>
   <programme start="20211102224500 -0600" stop="20211102230000 -0600" channel="8">
     <title lang="es">Las muñecas de la mafia</title>
@@ -1181,8 +1237,44 @@
   <programme start="20211102230000 -0600" stop="20211102231000 -0600" channel="8">
     <title lang="es">La ley secreta</title>
   </programme>
-  <programme start="20211103130000 -0600" stop="20211103135500 -0600" channel="8">
-    <title lang="es">24 Horas</title>
+  <programme start="20211102231000 -0600" stop="20211103001500 -0600" channel="8">
+    <title lang="es">Perseguidos</title>
+    <desc lang="es">Un capo perseguido por la justicia ha sido traicionado, ahora las autoridades por fin logran seguirle el rastro y desean capturarlo vivo o muerto.(n)</desc>
+  </programme>
+  <programme start="20211103060000 -0600" stop="20211103064500 -0600" channel="8">
+    <title lang="es">Una casa de locos</title>
+    <title lang="xx">The Loud House</title>
+    <desc lang="es">Con la ayuda de su mejor amigo, un niño de 11 años desarrolla estrategias nuevas cada día para poder sobrevivir al caos que provocan sus diez hermanas.(n)</desc>
+  </programme>
+  <programme start="20211103064500 -0600" stop="20211103073000 -0600" channel="8">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+    <title lang="xx">The Penguins of Madagascar</title>
+    <desc lang="es">Cuatro pingüinos que viven en el zoológico de Central Park en Nueva York deben usar sus habilidades de comando de primer nivel para resolver misiones.(n)</desc>
+  </programme>
+  <programme start="20211103073000 -0600" stop="20211103080000 -0600" channel="8">
+    <title lang="es">Las aventuras del Gato con Botas</title>
+  </programme>
+  <programme start="20211103080000 -0600" stop="20211103093000 -0600" channel="8">
+    <title lang="es">Bob Esponja La Película</title>
+  </programme>
+  <programme start="20211103133000 -0600" stop="20211103150000 -0600" channel="8">
+    <title lang="es">Los Locos Addams 2</title>
+  </programme>
+  <programme start="20211103190000 -0600" stop="20211103200000 -0600" channel="8">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.(n)</desc>
+  </programme>
+  <programme start="20211103210000 -0600" stop="20211103220000 -0600" channel="8">
+    <title lang="es">El Doctor milagro</title>
+  </programme>
+  <programme start="20211103220000 -0600" stop="20211103224500 -0600" channel="8">
+    <title lang="es">Enfermeras</title>
+  </programme>
+  <programme start="20211103224500 -0600" stop="20211103230000 -0600" channel="8">
+    <title lang="es">Las muñecas de la mafia</title>
+  </programme>
+  <programme start="20211103230000 -0600" stop="20211103231000 -0600" channel="8">
+    <title lang="es">La ley secreta</title>
   </programme>
   <programme start="20211102010000 -0600" stop="20211102024600 -0600" channel="9">
     <title lang="es">De volta ao mundo Amish</title>
@@ -1329,7 +1421,7 @@
     <title lang="es">Productos Naturales</title>
   </programme>
   <programme start="20211102060000 -0600" stop="20211102070000 -0600" channel="10">
-    <title lang="es">Dibujos Animados</title>
+    <title lang="es">Outlet TV</title>
   </programme>
   <programme start="20211102070000 -0600" stop="20211102073000 -0600" channel="10">
     <title lang="es">Pensadores positivos</title>
@@ -1340,11 +1432,11 @@
   <programme start="20211102083000 -0600" stop="20211102130000 -0600" channel="10">
     <title lang="es">Novedades TV</title>
   </programme>
-  <programme start="20211102130000 -0600" stop="20211102153000 -0600" channel="10">
-    <title lang="es">Retro Cinema</title>
+  <programme start="20211102130000 -0600" stop="20211102140000 -0600" channel="10">
+    <title lang="es">Outlet TV</title>
   </programme>
-  <programme start="20211102153000 -0600" stop="20211102160000 -0600" channel="10">
-    <title lang="es">Nuevo Mundo</title>
+  <programme start="20211102140000 -0600" stop="20211102160000 -0600" channel="10">
+    <title lang="es">El Pandillero</title>
   </programme>
   <programme start="20211102160000 -0600" stop="20211102170000 -0600" channel="10">
     <title lang="es">Tik Music</title>
@@ -1367,11 +1459,11 @@
   <programme start="20211102230000 -0600" stop="20211103000000 -0600" channel="10">
     <title lang="es">Novedades TV</title>
   </programme>
-  <programme start="20211103060000 -0600" stop="20211103070000 -0600" channel="10">
-    <title lang="es">Gamanoticias matinal</title>
+  <programme start="20211103140000 -0600" stop="20211103160000 -0600" channel="10">
+    <title lang="es">Los gavilanes</title>
   </programme>
-  <programme start="20211103130000 -0600" stop="20211103153000 -0600" channel="10">
-    <title lang="es">Retro Cinema</title>
+  <programme start="20211103190000 -0600" stop="20211103200000 -0600" channel="10">
+    <title lang="es">Memorias</title>
   </programme>
   <programme start="20211102010500 -0600" stop="20211102023500 -0600" channel="11">
     <title lang="es">24 cuadros de terror</title>
@@ -1556,7 +1648,7 @@
   <programme start="20211102230000 -0600" stop="20211103000000 -0600" channel="12">
     <title lang="es">Noticiero Uno</title>
   </programme>
-  <programme start="20211103130000 -0600" stop="20211103133000 -0600" channel="12">
+  <programme start="20211103190000 -0600" stop="20211103200000 -0600" channel="12">
     <title lang="es">Lo mejor en carne propia</title>
   </programme>
   <programme start="20211102030000 -0600" stop="20211102050000 -0600" channel="13">
@@ -1800,10 +1892,10 @@
     <title lang="es">Mi Musa</title>
   </programme>
   <programme start="20211102060000 -0600" stop="20211102063000 -0600" channel="15">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102063000 -0600" stop="20211102070000 -0600" channel="15">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102070000 -0600" stop="20211102085500 -0600" channel="15">
     <title lang="es">Habitación 1174</title>
@@ -1850,7 +1942,7 @@
     <title lang="es">Regreso mortal</title>
   </programme>
   <programme start="20211104063000 -0600" stop="20211104070000 -0600" channel="15">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211104070000 -0600" stop="20211104093500 -0600" channel="15">
     <title lang="es">El gran golpe</title>
@@ -1907,28 +1999,28 @@
     <title lang="es">La ciencia de lo absurdo</title>
   </programme>
   <programme start="20211102070000 -0600" stop="20211102073000 -0600" channel="16">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102073000 -0600" stop="20211102080000 -0600" channel="16">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102080000 -0600" stop="20211102083000 -0600" channel="16">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102083000 -0600" stop="20211102090000 -0600" channel="16">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102090000 -0600" stop="20211102093000 -0600" channel="16">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102093000 -0600" stop="20211102100000 -0600" channel="16">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102100000 -0600" stop="20211102103000 -0600" channel="16">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102103000 -0600" stop="20211102110200 -0600" channel="16">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102110200 -0600" stop="20211102113000 -0600" channel="16">
     <title lang="es">Megaindustria de alimentos</title>
@@ -2112,7 +2204,7 @@
     <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
   </programme>
   <programme start="20211103001000 -0600" stop="20211103011000 -0600" channel="17">
-    <title lang="es">UEFA Champions League Highlights</title>
+    <title lang="es">UEFA Champions League - Highlights</title>
   </programme>
   <programme start="20211103011000 -0600" stop="20211103020000 -0600" channel="17">
     <title lang="es">Futbol Picante</title>
@@ -2151,7 +2243,7 @@
     <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
   </programme>
   <programme start="20211103230000 -0600" stop="20211104000000 -0600" channel="17">
-    <title lang="es">UEFA Champions League Highlights</title>
+    <title lang="es">UEFA Champions League - Highlights</title>
   </programme>
   <programme start="20211102001100 -0600" stop="20211102002500 -0600" channel="18">
     <title lang="es">La magia de Sadie</title>
@@ -2808,13 +2900,13 @@
     <title lang="es">Yo te amo Phillip Morris</title>
   </programme>
   <programme start="20211102053000 -0600" stop="20211102060000 -0600" channel="19">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102060000 -0600" stop="20211102063000 -0600" channel="19">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102063000 -0600" stop="20211102070000 -0600" channel="19">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102070000 -0600" stop="20211102084500 -0600" channel="19">
     <title lang="es">El robo de la doncella</title>
@@ -2856,10 +2948,10 @@
     <title lang="es">San Vincent</title>
   </programme>
   <programme start="20211104060000 -0600" stop="20211104063000 -0600" channel="19">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211104063000 -0600" stop="20211104070000 -0600" channel="19">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211104070000 -0600" stop="20211104091500 -0600" channel="19">
     <title lang="es">Promesa de vida</title>
@@ -3068,11 +3160,11 @@
   <programme start="20211103120000 -0600" stop="20211103123000 -0600" channel="21">
     <title lang="es">La Dolce Vita</title>
   </programme>
-  <programme start="20211103123000 -0600" stop="20211103150000 -0600" channel="21">
-    <title lang="es">Noticias Caracol</title>
-  </programme>
   <programme start="20211103180000 -0600" stop="20211103190000 -0600" channel="21">
     <title lang="es">Se dice de mi</title>
+  </programme>
+  <programme start="20211103190000 -0600" stop="20211103200000 -0600" channel="21">
+    <title lang="es">Noticias Caracol</title>
   </programme>
   <programme start="20211103220000 -0600" stop="20211103223000 -0600" channel="21">
     <title lang="es">Deportes 360</title>
@@ -3152,7 +3244,7 @@
   <programme start="20211103120000 -0600" stop="20211103130000 -0600" channel="22">
     <title lang="es">La hora del amor</title>
   </programme>
-  <programme start="20211103130000 -0600" stop="20211103140000 -0600" channel="22">
+  <programme start="20211103190000 -0600" stop="20211103200000 -0600" channel="22">
     <title lang="es">Programación videos</title>
   </programme>
   <programme start="20211103200000 -0600" stop="20211103210000 -0600" channel="22">
@@ -3180,28 +3272,28 @@
     <title lang="es">Stargate Atlantis</title>
   </programme>
   <programme start="20211102070000 -0600" stop="20211102073000 -0600" channel="23">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102073000 -0600" stop="20211102080000 -0600" channel="23">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102080000 -0600" stop="20211102083000 -0600" channel="23">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102083000 -0600" stop="20211102090000 -0600" channel="23">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102090000 -0600" stop="20211102093000 -0600" channel="23">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102093000 -0600" stop="20211102100000 -0600" channel="23">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102100000 -0600" stop="20211102103000 -0600" channel="23">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102103000 -0600" stop="20211102111500 -0600" channel="23">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211102111500 -0600" stop="20211102121000 -0600" channel="23">
     <title lang="es">The amazing race</title>
@@ -3248,7 +3340,7 @@
     <title lang="es">Stargate Atlantis</title>
   </programme>
   <programme start="20211104100000 -0600" stop="20211104110000 -0600" channel="23">
-    <title lang="es">Infomerciales</title>
+    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211104110000 -0600" stop="20211104112500 -0600" channel="23">
     <title lang="es">Perfect Harmony</title>
@@ -3355,7 +3447,7 @@
     <title lang="es">Campeonato de reposteros Halloween</title>
   </programme>
   <programme start="20211102200000 -0600" stop="20211102220000 -0600" channel="24">
-    <title lang="es">Buddy vs. Duff</title>
+    <title lang="es">Buddy vs Duff</title>
   </programme>
   <programme start="20211102220000 -0600" stop="20211102231000 -0600" channel="24">
     <title lang="es">Masterchef Celebrity Colombia</title>
@@ -3394,7 +3486,7 @@
     <title lang="es">Historia de un bebé</title>
   </programme>
   <programme start="20211103075400 -0600" stop="20211103094600 -0600" channel="24">
-    <title lang="es">Buddy vs. Duff</title>
+    <title lang="es">Buddy vs Duff</title>
   </programme>
   <programme start="20211103094600 -0600" stop="20211103101600 -0600" channel="24">
     <title lang="es">Busca hogares en Hawái</title>
@@ -3472,7 +3564,7 @@
     <title lang="es">Pesca mortal</title>
   </programme>
   <programme start="20211102100400 -0600" stop="20211102110400 -0600" channel="25">
-    <title lang="es">Alaska la última frontera</title>
+    <title lang="es">Alaska, la última frontera</title>
   </programme>
   <programme start="20211102110400 -0600" stop="20211102120400 -0600" channel="25">
     <title lang="es">Expedición a lo desconocido después de la aventura</title>
@@ -3550,7 +3642,7 @@
     <title lang="es">Pesca mortal</title>
   </programme>
   <programme start="20211103100000 -0600" stop="20211103110000 -0600" channel="25">
-    <title lang="es">Alaska la última frontera</title>
+    <title lang="es">Alaska, la última frontera</title>
   </programme>
   <programme start="20211103110000 -0600" stop="20211103120000 -0600" channel="25">
     <title lang="es">Expedición a lo desconocido después de la aventura</title>
@@ -3678,8 +3770,8 @@
   <programme start="20211103103000 -0600" stop="20211103113000 -0600" channel="26">
     <title lang="es">La Noche</title>
   </programme>
-  <programme start="20211103130000 -0600" stop="20211103140000 -0600" channel="26">
-    <title lang="es">Planeta Gente</title>
+  <programme start="20211103190000 -0600" stop="20211103200000 -0600" channel="26">
+    <title lang="es">Informativo NTN</title>
   </programme>
   <programme start="20211102005100 -0600" stop="20211102024600 -0600" channel="27">
     <title lang="es">El Efecto Mariposa (The Butterfly Effect)</title>
@@ -4203,14 +4295,14 @@
   <programme start="20211103100000 -0600" stop="20211103120000 -0600" channel="30">
     <title lang="es">Fórmula 1</title>
   </programme>
-  <programme start="20211103120000 -0600" stop="20211103150000 -0600" channel="30">
-    <title lang="es">UFC</title>
-  </programme>
   <programme start="20211103150000 -0600" stop="20211103170000 -0600" channel="30">
     <title lang="es">Fórmula 1</title>
   </programme>
   <programme start="20211103180000 -0600" stop="20211103190000 -0600" channel="30">
     <title lang="es">Wwe nxt</title>
+  </programme>
+  <programme start="20211103190000 -0600" stop="20211103220000 -0600" channel="30">
+    <title lang="es">Serie Mundial de la MLB</title>
   </programme>
   <programme start="20211103220000 -0600" stop="20211104000000 -0600" channel="30">
     <title lang="es">Fórmula 1</title>
