@@ -406,7 +406,7 @@
   <programme start="20211103230000 -0600" stop="20211104000000 -0600" channel="3">
     <title lang="es">Suleimán, el sultán</title>
   </programme>
-  <programme start="20211104130000 -0600" stop="20211104140000 -0600" channel="3">
+  <programme start="20211104190000 -0600" stop="20211104200000 -0600" channel="3">
     <title lang="es">La Rosa de Guadalupe</title>
   </programme>
   <programme start="20211103000100 -0600" stop="20211103021900 -0600" channel="4">
@@ -985,8 +985,8 @@
   <programme start="20211103230000 -0600" stop="20211104000000 -0600" channel="6">
     <title lang="es">Rodando Ecuador</title>
   </programme>
-  <programme start="20211104130000 -0600" stop="20211104140000 -0600" channel="6">
-    <title lang="es">Telediario</title>
+  <programme start="20211104190000 -0600" stop="20211104200000 -0600" channel="6">
+    <title lang="es">Esta es mi canción</title>
   </programme>
   <programme start="20211103010000 -0600" stop="20211103013000 -0600" channel="7">
     <title lang="es">Matrimonio con Hijos</title>
@@ -1098,6 +1098,9 @@
   </programme>
   <programme start="20211104160000 -0600" stop="20211104173000 -0600" channel="7">
     <title lang="es">De boca en boca</title>
+  </programme>
+  <programme start="20211104190000 -0600" stop="20211104203000 -0600" channel="7">
+    <title lang="es">El Noticiero - 3ra emisión</title>
   </programme>
   <programme start="20211104230000 -0600" stop="20211104233000 -0600" channel="7">
     <title lang="es">Alerta Roja</title>
@@ -1655,7 +1658,7 @@
   <programme start="20211103230000 -0600" stop="20211104000000 -0600" channel="12">
     <title lang="es">Noticiero Uno</title>
   </programme>
-  <programme start="20211104130000 -0600" stop="20211104133000 -0600" channel="12">
+  <programme start="20211104190000 -0600" stop="20211104200000 -0600" channel="12">
     <title lang="es">Lo mejor en carne propia</title>
   </programme>
   <programme start="20211103003000 -0600" stop="20211103010000 -0600" channel="13">
@@ -3210,9 +3213,6 @@
   <programme start="20211104120000 -0600" stop="20211104123000 -0600" channel="21">
     <title lang="es">Deportes 360</title>
   </programme>
-  <programme start="20211104123000 -0600" stop="20211104150000 -0600" channel="21">
-    <title lang="es">Noticias Caracol</title>
-  </programme>
   <programme start="20211104173000 -0600" stop="20211104180000 -0600" channel="21">
     <title lang="es">Testigo Directo</title>
   </programme>
@@ -3318,7 +3318,7 @@
   <programme start="20211104120000 -0600" stop="20211104130000 -0600" channel="22">
     <title lang="es">Exclusivo</title>
   </programme>
-  <programme start="20211104130000 -0600" stop="20211104140000 -0600" channel="22">
+  <programme start="20211104190000 -0600" stop="20211104200000 -0600" channel="22">
     <title lang="es">Programación videos</title>
   </programme>
   <programme start="20211104200000 -0600" stop="20211104210000 -0600" channel="22">
@@ -3876,8 +3876,8 @@
   <programme start="20211103230000 -0600" stop="20211104000000 -0600" channel="26">
     <title lang="es">La Noche</title>
   </programme>
-  <programme start="20211104130000 -0600" stop="20211104140000 -0600" channel="26">
-    <title lang="es">Planeta Gente</title>
+  <programme start="20211104190000 -0600" stop="20211104200000 -0600" channel="26">
+    <title lang="es">Informativo NTN</title>
   </programme>
   <programme start="20211104200000 -0600" stop="20211104203000 -0600" channel="26">
     <title lang="es">Zoom a la Noticia</title>
@@ -4414,9 +4414,6 @@
   </programme>
   <programme start="20211104080000 -0600" stop="20211104090000 -0600" channel="30">
     <title lang="es">WWE Main Event</title>
-  </programme>
-  <programme start="20211104120000 -0600" stop="20211104150000 -0600" channel="30">
-    <title lang="es">UFC</title>
   </programme>
   <programme start="20211104180000 -0600" stop="20211104190000 -0600" channel="30">
     <title lang="es">WWE Main Event</title>
