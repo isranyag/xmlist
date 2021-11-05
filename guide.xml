@@ -183,7 +183,7 @@
   <programme start="20211104223000 -0600" stop="20211104231500 -0600" channel="1">
     <title lang="es">100 días para enamorarse</title>
   </programme>
-  <programme start="20211105130000 -0600" stop="20211105140000 -0600" channel="1">
+  <programme start="20211105190000 -0600" stop="20211105200000 -0600" channel="1">
     <title lang="es">Televistazo</title>
   </programme>
   <programme start="20211104001600 -0600" stop="20211104015100 -0600" channel="2">
@@ -360,7 +360,7 @@
     <title lang="xx">NCIS</title>
     <desc lang="es">Un equipo de agentes especiales encargados en buscar los crímenes con lazos de la Armada o de la Infantería de Marina que opera fuera del cargo militar.(n)</desc>
   </programme>
-  <programme start="20211105130000 -0600" stop="20211105140000 -0600" channel="3">
+  <programme start="20211105190000 -0600" stop="20211105200000 -0600" channel="3">
     <title lang="es">La Rosa de Guadalupe</title>
   </programme>
   <programme start="20211104013700 -0600" stop="20211104031600 -0600" channel="4">
@@ -981,8 +981,8 @@
   <programme start="20211104230000 -0600" stop="20211105000000 -0600" channel="6">
     <title lang="es">Rodando Ecuador</title>
   </programme>
-  <programme start="20211105130000 -0600" stop="20211105140000 -0600" channel="6">
-    <title lang="es">Telediario</title>
+  <programme start="20211105190000 -0600" stop="20211105200000 -0600" channel="6">
+    <title lang="es">Esta es mi canción</title>
   </programme>
   <programme start="20211104010000 -0600" stop="20211104013000 -0600" channel="7">
     <title lang="es">Matrimonio con Hijos</title>
@@ -1231,8 +1231,9 @@
     <title lang="es">C.S.I. Las Vegas</title>
     <desc lang="es">Investigadores buscan las verdades de los asesinatos en la ciudad de Las Vegas demostrando a los criminales que salirse con la suya es mucho más difícil.(n)</desc>
   </programme>
-  <programme start="20211105130000 -0600" stop="20211105135500 -0600" channel="8">
-    <title lang="es">24 Horas</title>
+  <programme start="20211105190000 -0600" stop="20211105200000 -0600" channel="8">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.(n)</desc>
   </programme>
   <programme start="20211104010000 -0600" stop="20211104015600 -0600" channel="9">
     <title lang="es">De volta ao mundo Amish</title>
@@ -1420,8 +1421,8 @@
   <programme start="20211104230000 -0600" stop="20211105000000 -0600" channel="10">
     <title lang="es">Novedades TV</title>
   </programme>
-  <programme start="20211105130000 -0600" stop="20211105134500 -0600" channel="10">
-    <title lang="es">Gamanoticias en la comunidad</title>
+  <programme start="20211105190000 -0600" stop="20211105200000 -0600" channel="10">
+    <title lang="es">Gamanoticias estelar</title>
   </programme>
   <programme start="20211104011500 -0600" stop="20211104024500 -0600" channel="11">
     <title lang="es">El cholo</title>
@@ -1606,7 +1607,7 @@
   <programme start="20211104230000 -0600" stop="20211105000000 -0600" channel="12">
     <title lang="es">Noticiero Uno</title>
   </programme>
-  <programme start="20211105130000 -0600" stop="20211105133000 -0600" channel="12">
+  <programme start="20211105190000 -0600" stop="20211105200000 -0600" channel="12">
     <title lang="es">Lo mejor en carne propia</title>
   </programme>
   <programme start="20211104013000 -0600" stop="20211104030000 -0600" channel="13">
@@ -3113,9 +3114,6 @@
   <programme start="20211105120000 -0600" stop="20211105123000 -0600" channel="21">
     <title lang="es">Los magos de la cocina</title>
   </programme>
-  <programme start="20211105123000 -0600" stop="20211105150000 -0600" channel="21">
-    <title lang="es">Noticias Caracol</title>
-  </programme>
   <programme start="20211105173000 -0600" stop="20211105180000 -0600" channel="21">
     <title lang="es">De Moda con Ericka</title>
   </programme>
@@ -3215,7 +3213,7 @@
   <programme start="20211105120000 -0600" stop="20211105130000 -0600" channel="22">
     <title lang="es">El mano a mano</title>
   </programme>
-  <programme start="20211105130000 -0600" stop="20211105140000 -0600" channel="22">
+  <programme start="20211105190000 -0600" stop="20211105200000 -0600" channel="22">
     <title lang="es">Programación videos</title>
   </programme>
   <programme start="20211105200000 -0600" stop="20211105210000 -0600" channel="22">
@@ -3804,9 +3802,6 @@
   <programme start="20211105093000 -0600" stop="20211105103000 -0600" channel="26">
     <title lang="es">Club Prensa</title>
   </programme>
-  <programme start="20211105130000 -0600" stop="20211105140000 -0600" channel="26">
-    <title lang="es">Planeta Gente</title>
-  </programme>
   <programme start="20211105140000 -0600" stop="20211105150000 -0600" channel="26">
     <title lang="es">Club Prensa</title>
   </programme>
@@ -3821,6 +3816,9 @@
   </programme>
   <programme start="20211105170000 -0600" stop="20211105180000 -0600" channel="26">
     <title lang="es">La Tarde</title>
+  </programme>
+  <programme start="20211105190000 -0600" stop="20211105200000 -0600" channel="26">
+    <title lang="es">Informativo NTN</title>
   </programme>
   <programme start="20211105200000 -0600" stop="20211105210000 -0600" channel="26">
     <title lang="es">Zoom a la Noticia</title>
@@ -4249,6 +4247,9 @@
     <title lang="es">Kiko</title>
     <title lang="xx">Kiko</title>
     <desc lang="es">Kiko, Poly, Lola, Patino y Ting-Ting son cinco amigos que resuelven sus problemas de manera divertida y única en un pequeño pueblo en el fondo del lago.(n)</desc>
+  </programme>
+  <programme start="20211105190000 -0600" stop="20211105191500 -0600" channel="28">
+    <title lang="es">La Playa de Bob</title>
   </programme>
   <programme start="20211105213000 -0600" stop="20211105214500 -0600" channel="28">
     <title lang="es">Jelly Jamm</title>
