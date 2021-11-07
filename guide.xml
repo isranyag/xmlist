@@ -454,8 +454,8 @@
   <programme start="20211107100000 -0600" stop="20211107120000 -0600" channel="3">
     <title lang="es">Reto cuatro elementos</title>
   </programme>
-  <programme start="20211107130000 -0600" stop="20211107140000 -0600" channel="3">
-    <title lang="es">Guerrero Ninja Americano</title>
+  <programme start="20211107180000 -0600" stop="20211107200000 -0600" channel="3">
+    <title lang="es">Marimar</title>
   </programme>
   <programme start="20211106013500 -0600" stop="20211106030000 -0600" channel="4">
     <title lang="es">Cuando las luces se apagan</title>
@@ -1007,9 +1007,6 @@
   </programme>
   <programme start="20211107073000 -0600" stop="20211107080000 -0600" channel="6">
     <title lang="es">Misa</title>
-  </programme>
-  <programme start="20211107130000 -0600" stop="20211107140000 -0600" channel="6">
-    <title lang="es">Desde Cero</title>
   </programme>
   <programme start="20211107190000 -0600" stop="20211107200000 -0600" channel="6">
     <title lang="es">Telediario Dominical</title>
@@ -1572,9 +1569,6 @@
   </programme>
   <programme start="20211107113000 -0600" stop="20211107120000 -0600" channel="10">
     <title lang="es">Animado</title>
-  </programme>
-  <programme start="20211107120000 -0600" stop="20211107180000 -0600" channel="10">
-    <title lang="es">Novedades TV</title>
   </programme>
   <programme start="20211107180000 -0600" stop="20211107183000 -0600" channel="10">
     <title lang="es">Los protagonistas</title>
@@ -3443,6 +3437,9 @@
   <programme start="20211107180000 -0600" stop="20211107190000 -0600" channel="21">
     <title lang="es">The Suso's show</title>
   </programme>
+  <programme start="20211107190000 -0600" stop="20211107203000 -0600" channel="21">
+    <title lang="es">Noticias Caracol</title>
+  </programme>
   <programme start="20211107203000 -0600" stop="20211107213000 -0600" channel="21">
     <title lang="es">Los Informantes</title>
   </programme>
@@ -3556,6 +3553,9 @@
   </programme>
   <programme start="20211107180000 -0600" stop="20211107190000 -0600" channel="22">
     <title lang="es">La hora del amor</title>
+  </programme>
+  <programme start="20211107190000 -0600" stop="20211107200000 -0600" channel="22">
+    <title lang="es">Programación videos</title>
   </programme>
   <programme start="20211107200000 -0600" stop="20211107210000 -0600" channel="22">
     <title lang="es">Estudio abierto</title>
@@ -4139,6 +4139,9 @@
   </programme>
   <programme start="20211107143000 -0600" stop="20211107150000 -0600" channel="26">
     <title lang="es">CST</title>
+  </programme>
+  <programme start="20211107190000 -0600" stop="20211107200000 -0600" channel="26">
+    <title lang="es">Informativo NTN</title>
   </programme>
   <programme start="20211106002800 -0600" stop="20211106020000 -0600" channel="27">
     <title lang="es">S.W.A.T. Unidad especial 2</title>
