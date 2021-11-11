@@ -183,7 +183,7 @@
   <programme start="20211110223000 -0600" stop="20211110231500 -0600" channel="1">
     <title lang="es">100 días para enamorarse</title>
   </programme>
-  <programme start="20211111130000 -0600" stop="20211111140000 -0600" channel="1">
+  <programme start="20211111190000 -0600" stop="20211111200000 -0600" channel="1">
     <title lang="es">Televistazo</title>
   </programme>
   <programme start="20211110010600 -0600" stop="20211110023200 -0600" channel="2">
@@ -402,7 +402,7 @@
   <programme start="20211110231500 -0600" stop="20211111000000 -0600" channel="3">
     <title lang="es">Suleimán, el sultán</title>
   </programme>
-  <programme start="20211111130000 -0600" stop="20211111140000 -0600" channel="3">
+  <programme start="20211111190000 -0600" stop="20211111200000 -0600" channel="3">
     <title lang="es">La Rosa de Guadalupe</title>
   </programme>
   <programme start="20211110012100 -0600" stop="20211110035400 -0600" channel="4">
@@ -963,8 +963,8 @@
   <programme start="20211110230000 -0600" stop="20211111000000 -0600" channel="6">
     <title lang="es">Rodando Ecuador</title>
   </programme>
-  <programme start="20211111130000 -0600" stop="20211111140000 -0600" channel="6">
-    <title lang="es">Telediario</title>
+  <programme start="20211111190000 -0600" stop="20211111200000 -0600" channel="6">
+    <title lang="es">Esta es mi canción</title>
   </programme>
   <programme start="20211110003000 -0600" stop="20211110010000 -0600" channel="7">
     <title lang="es">La Niñera</title>
@@ -1037,9 +1037,6 @@
   </programme>
   <programme start="20211110233000 -0600" stop="20211111000000 -0600" channel="7">
     <title lang="es">Caso cerrado Edición estelar</title>
-  </programme>
-  <programme start="20211111123000 -0600" stop="20211111140000 -0600" channel="7">
-    <title lang="es">El Noticiero - 2da. emisión</title>
   </programme>
   <programme start="20211111173000 -0600" stop="20211111183000 -0600" channel="7">
     <title lang="es">Soy el mejor</title>
@@ -1162,8 +1159,9 @@
     <title lang="xx">CSI: Miami</title>
     <desc lang="es">Investigadores con grandes habilidades salen a las calles, playas y pantanos de Miami con un Humvee y la capacidad de arrestar a cualquier sospechoso.(n)</desc>
   </programme>
-  <programme start="20211111130000 -0600" stop="20211111135500 -0600" channel="8">
-    <title lang="es">24 Horas</title>
+  <programme start="20211111190000 -0600" stop="20211111200000 -0600" channel="8">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.(n)</desc>
   </programme>
   <programme start="20211110010000 -0600" stop="20211110015600 -0600" channel="9">
     <title lang="es">De volta ao mundo Amish</title>
@@ -1519,7 +1517,7 @@
   <programme start="20211110230000 -0600" stop="20211111000000 -0600" channel="12">
     <title lang="es">Noticiero Uno</title>
   </programme>
-  <programme start="20211111130000 -0600" stop="20211111133000 -0600" channel="12">
+  <programme start="20211111190000 -0600" stop="20211111200000 -0600" channel="12">
     <title lang="es">Lo mejor en carne propia</title>
   </programme>
   <programme start="20211110013000 -0600" stop="20211110030000 -0600" channel="13">
@@ -2811,9 +2809,6 @@
   <programme start="20211111090000 -0600" stop="20211111120000 -0600" channel="20">
     <title lang="es">UFC Fight Night: Holm vs. Aldana</title>
   </programme>
-  <programme start="20211111130000 -0600" stop="20211111140000 -0600" channel="20">
-    <title lang="es">UEFA Champions League Classic</title>
-  </programme>
   <programme start="20211111140000 -0600" stop="20211111160000 -0600" channel="20">
     <title lang="es">Fox Sports Clásico</title>
   </programme>
@@ -2915,9 +2910,6 @@
   </programme>
   <programme start="20211111120000 -0600" stop="20211111123000 -0600" channel="21">
     <title lang="es">Deportes 360</title>
-  </programme>
-  <programme start="20211111123000 -0600" stop="20211111150000 -0600" channel="21">
-    <title lang="es">Noticias Caracol</title>
   </programme>
   <programme start="20211111173000 -0600" stop="20211111180000 -0600" channel="21">
     <title lang="es">Testigo Directo</title>
@@ -3024,7 +3016,7 @@
   <programme start="20211111120000 -0600" stop="20211111130000 -0600" channel="22">
     <title lang="es">Exclusivo</title>
   </programme>
-  <programme start="20211111130000 -0600" stop="20211111140000 -0600" channel="22">
+  <programme start="20211111190000 -0600" stop="20211111200000 -0600" channel="22">
     <title lang="es">Programación videos</title>
   </programme>
   <programme start="20211111200000 -0600" stop="20211111210000 -0600" channel="22">
@@ -3577,8 +3569,8 @@
   <programme start="20211110230000 -0600" stop="20211111000000 -0600" channel="26">
     <title lang="es">La Noche</title>
   </programme>
-  <programme start="20211111130000 -0600" stop="20211111140000 -0600" channel="26">
-    <title lang="es">Planeta Gente</title>
+  <programme start="20211111190000 -0600" stop="20211111200000 -0600" channel="26">
+    <title lang="es">Informativo NTN</title>
   </programme>
   <programme start="20211111200000 -0600" stop="20211111203000 -0600" channel="26">
     <title lang="es">Zoom a la Noticia</title>
@@ -4021,9 +4013,6 @@
     <title lang="xx">Kiko</title>
     <desc lang="es">Kiko, Poly, Lola, Patino y Ting-Ting son cinco amigos que resuelven sus problemas de manera divertida y única en un pequeño pueblo en el fondo del lago.(n)</desc>
   </programme>
-  <programme start="20211111130000 -0600" stop="20211111140000 -0600" channel="28">
-    <title lang="es">Secretos de Australia Salvaje</title>
-  </programme>
   <programme start="20211111150000 -0600" stop="20211111160000 -0600" channel="28">
     <title lang="es">Vida Secreta del Vombatido</title>
   </programme>
@@ -4049,6 +4038,9 @@
     <title lang="es">Kiko</title>
     <title lang="xx">Kiko</title>
     <desc lang="es">Kiko, Poly, Lola, Patino y Ting-Ting son cinco amigos que resuelven sus problemas de manera divertida y única en un pequeño pueblo en el fondo del lago.(n)</desc>
+  </programme>
+  <programme start="20211111190000 -0600" stop="20211111191500 -0600" channel="28">
+    <title lang="es">La Playa de Bob</title>
   </programme>
   <programme start="20211111213000 -0600" stop="20211111214500 -0600" channel="28">
     <title lang="es">Jelly Jamm</title>
@@ -4156,6 +4148,9 @@
   </programme>
   <programme start="20211111180000 -0600" stop="20211111190000 -0600" channel="30">
     <title lang="es">WWE Main Event</title>
+  </programme>
+  <programme start="20211111190000 -0600" stop="20211111200000 -0600" channel="30">
+    <title lang="es">Fútbol clásico de la UEFA Champions League</title>
   </programme>
   <programme start="20211111200000 -0600" stop="20211111220000 -0600" channel="30">
     <title lang="es">La era Ramón Díaz</title>
