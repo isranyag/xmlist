@@ -186,8 +186,8 @@
   <programme start="20211112040000 -0600" stop="20211112050000 -0600" channel="1">
     <title lang="es">Totalmente Diva</title>
   </programme>
-  <programme start="20211112065500 -0600" stop="20211112073000 -0600" channel="1">
-    <title lang="es">Contacto directo</title>
+  <programme start="20211112190000 -0600" stop="20211112200000 -0600" channel="1">
+    <title lang="es">Televistazo</title>
   </programme>
   <programme start="20211111015800 -0600" stop="20211111034400 -0600" channel="2">
     <title lang="es">Eligiendo a mamá</title>
@@ -253,7 +253,7 @@
     <title lang="es">Los cazafantasmas</title>
   </programme>
   <programme start="20211111162500 -0600" stop="20211111183400 -0600" channel="2">
-    <title lang="es">¡Eso que tú haces</title>
+    <title lang="es">Eso que tu haces</title>
   </programme>
   <programme start="20211111183400 -0600" stop="20211111210000 -0600" channel="2">
     <title lang="es">El hombre de la máscara de hierro</title>
@@ -272,9 +272,6 @@
   </programme>
   <programme start="20211113025100 -0600" stop="20211113050000 -0600" channel="2">
     <title lang="es">Un día de nieve</title>
-  </programme>
-  <programme start="20211113070000 -0600" stop="20211113073000 -0600" channel="2">
-    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211113083000 -0600" stop="20211113095500 -0600" channel="2">
     <title lang="es">Infomercial</title>
@@ -376,8 +373,8 @@
   <programme start="20211111231500 -0600" stop="20211112000000 -0600" channel="3">
     <title lang="es">Suleimán, el sultán</title>
   </programme>
-  <programme start="20211112070000 -0600" stop="20211112080000 -0600" channel="3">
-    <title lang="es">La noticia</title>
+  <programme start="20211112190000 -0600" stop="20211112200000 -0600" channel="3">
+    <title lang="es">La Rosa de Guadalupe</title>
   </programme>
   <programme start="20211111023500 -0600" stop="20211111040600 -0600" channel="4">
     <title lang="es">Soy venganza Represalia</title>
@@ -519,226 +516,244 @@
   <programme start="20211111053700 -0600" stop="20211111060000 -0600" channel="5">
     <title lang="es">Phineas y Ferb</title>
   </programme>
-  <programme start="20211111060000 -0600" stop="20211111061500 -0600" channel="5">
+  <programme start="20211111060000 -0600" stop="20211111061100 -0600" channel="5">
     <title lang="es">Phineas y Ferb</title>
   </programme>
-  <programme start="20211111061500 -0600" stop="20211111063000 -0600" channel="5">
+  <programme start="20211111061100 -0600" stop="20211111062300 -0600" channel="5">
     <title lang="es">Pecezuelos</title>
   </programme>
-  <programme start="20211111063000 -0600" stop="20211111065000 -0600" channel="5">
+  <programme start="20211111062300 -0600" stop="20211111064700 -0600" channel="5">
     <title lang="es">Gravity Falls un verano de misterios</title>
   </programme>
-  <programme start="20211111065000 -0600" stop="20211111070000 -0600" channel="5">
+  <programme start="20211111064700 -0600" stop="20211111070000 -0600" channel="5">
     <title lang="es">Phineas y Ferb</title>
   </programme>
-  <programme start="20211111070000 -0600" stop="20211111071500 -0600" channel="5">
+  <programme start="20211111070000 -0600" stop="20211111071200 -0600" channel="5">
     <title lang="es">Phineas y Ferb</title>
   </programme>
-  <programme start="20211111071500 -0600" stop="20211111073000 -0600" channel="5">
+  <programme start="20211111071200 -0600" stop="20211111072300 -0600" channel="5">
     <title lang="es">Cupcake &amp; Dino servicios generales</title>
   </programme>
-  <programme start="20211111073000 -0600" stop="20211111075500 -0600" channel="5">
+  <programme start="20211111072300 -0600" stop="20211111074700 -0600" channel="5">
     <title lang="es">Gravity Falls un verano de misterios</title>
   </programme>
-  <programme start="20211111075500 -0600" stop="20211111080000 -0600" channel="5">
+  <programme start="20211111074700 -0600" stop="20211111080000 -0600" channel="5">
     <title lang="es">Mickey Mouse</title>
   </programme>
-  <programme start="20211111080000 -0600" stop="20211111083000 -0600" channel="5">
+  <programme start="20211111080000 -0600" stop="20211111082500 -0600" channel="5">
     <title lang="es">Las aventuras de Timón y Pumba</title>
   </programme>
-  <programme start="20211111083000 -0600" stop="20211111084500 -0600" channel="5">
+  <programme start="20211111082500 -0600" stop="20211111083700 -0600" channel="5">
     <title lang="es">Star vs. Las fuerzas del mal</title>
   </programme>
-  <programme start="20211111084500 -0600" stop="20211111085500 -0600" channel="5">
+  <programme start="20211111083700 -0600" stop="20211111084800 -0600" channel="5">
     <title lang="es">Galaxia Wander</title>
   </programme>
-  <programme start="20211111085500 -0600" stop="20211111090000 -0600" channel="5">
+  <programme start="20211111084800 -0600" stop="20211111090000 -0600" channel="5">
     <title lang="es">Randy Cunningham Ninja Total</title>
   </programme>
-  <programme start="20211111090000 -0600" stop="20211111091500 -0600" channel="5">
+  <programme start="20211111090000 -0600" stop="20211111091200 -0600" channel="5">
     <title lang="es">Pecezuelos</title>
   </programme>
-  <programme start="20211111091500 -0600" stop="20211111093000 -0600" channel="5">
+  <programme start="20211111091200 -0600" stop="20211111093000 -0600" channel="5">
     <title lang="es">Gusano del futuro</title>
   </programme>
-  <programme start="20211111093000 -0600" stop="20211111100000 -0600" channel="5">
+  <programme start="20211111093000 -0600" stop="20211111095400 -0600" channel="5">
     <title lang="es">Lilo y Stitch</title>
   </programme>
-  <programme start="20211111100000 -0600" stop="20211111103000 -0600" channel="5">
+  <programme start="20211111095400 -0600" stop="20211111101900 -0600" channel="5">
     <title lang="es">Quack Pack</title>
   </programme>
-  <programme start="20211111103000 -0600" stop="20211111110000 -0600" channel="5">
+  <programme start="20211111101900 -0600" stop="20211111104300 -0600" channel="5">
     <title lang="es">Ultimate Spider-Man</title>
   </programme>
-  <programme start="20211111110000 -0600" stop="20211111113000 -0600" channel="5">
+  <programme start="20211111104300 -0600" stop="20211111110900 -0600" channel="5">
     <title lang="es">Star Wars Rebels</title>
   </programme>
-  <programme start="20211111113000 -0600" stop="20211111120000 -0600" channel="5">
+  <programme start="20211111110900 -0600" stop="20211111113400 -0600" channel="5">
     <title lang="es">Par de reyes</title>
   </programme>
-  <programme start="20211111120000 -0600" stop="20211111123000 -0600" channel="5">
+  <programme start="20211111113400 -0600" stop="20211111120000 -0600" channel="5">
     <title lang="es">Los guerreros Wasabi</title>
   </programme>
-  <programme start="20211111123000 -0600" stop="20211111130000 -0600" channel="5">
+  <programme start="20211111120000 -0600" stop="20211111122200 -0600" channel="5">
     <title lang="es">Lab Rats</title>
   </programme>
-  <programme start="20211111130000 -0600" stop="20211111131000 -0600" channel="5">
+  <programme start="20211111122200 -0600" stop="20211111124500 -0600" channel="5">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
+  </programme>
+  <programme start="20211111124500 -0600" stop="20211111130000 -0600" channel="5">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20211111130000 -0600" stop="20211111132500 -0600" channel="5">
     <title lang="es">Trollhunters de Guillermo del Toro - Relatos de Arcadia</title>
   </programme>
-  <programme start="20211111131000 -0600" stop="20211111133000 -0600" channel="5">
+  <programme start="20211111132500 -0600" stop="20211111133700 -0600" channel="5">
     <title lang="es">Galaxia Wander</title>
   </programme>
-  <programme start="20211111133000 -0600" stop="20211111134500 -0600" channel="5">
+  <programme start="20211111133700 -0600" stop="20211111134800 -0600" channel="5">
     <title lang="es">Grandes Héroes: La Serie</title>
     <title lang="xx">Big Hero 6: The Series</title>
     <desc lang="es">Hiro, un joven genio de la tecnología de 14 años debe enfrentar una serie de desafíos académicos mientras él y su grupo de amigos protegen a San Fransokyo.(n)</desc>
   </programme>
-  <programme start="20211111134500 -0600" stop="20211111140000 -0600" channel="5">
+  <programme start="20211111134800 -0600" stop="20211111140300 -0600" channel="5">
     <title lang="es">Los Vecinos Green</title>
     <title lang="xx">Big City Greens</title>
     <desc lang="es">Cricket y su familia se mudan a la gran ciudad, estos simples campesinos deben aprender a convivir con sus nuevos vecinos en una metrópolis bulliciosa.(n)</desc>
   </programme>
-  <programme start="20211111140000 -0600" stop="20211111143000 -0600" channel="5">
+  <programme start="20211111140300 -0600" stop="20211111143000 -0600" channel="5">
     <title lang="es">Gravity Falls un verano de misterios</title>
   </programme>
-  <programme start="20211111143000 -0600" stop="20211111144500 -0600" channel="5">
+  <programme start="20211111143000 -0600" stop="20211111144200 -0600" channel="5">
     <title lang="es">Los Vecinos Green</title>
     <title lang="xx">Big City Greens</title>
     <desc lang="es">Cricket y su familia se mudan a la gran ciudad, estos simples campesinos deben aprender a convivir con sus nuevos vecinos en una metrópolis bulliciosa.(n)</desc>
   </programme>
-  <programme start="20211111144500 -0600" stop="20211111150000 -0600" channel="5">
+  <programme start="20211111144200 -0600" stop="20211111150000 -0600" channel="5">
     <title lang="es">Phineas y Ferb</title>
   </programme>
-  <programme start="20211111150000 -0600" stop="20211111153000 -0600" channel="5">
+  <programme start="20211111150000 -0600" stop="20211111152700 -0600" channel="5">
     <title lang="es">Los Vecinos Green</title>
     <title lang="xx">Big City Greens</title>
     <desc lang="es">Cricket y su familia se mudan a la gran ciudad, estos simples campesinos deben aprender a convivir con sus nuevos vecinos en una metrópolis bulliciosa.(n)</desc>
   </programme>
-  <programme start="20211111153000 -0600" stop="20211111160000 -0600" channel="5">
+  <programme start="20211111152700 -0600" stop="20211111155500 -0600" channel="5">
     <title lang="es">The Owl House - La casa búho</title>
   </programme>
-  <programme start="20211111160000 -0600" stop="20211111161500 -0600" channel="5">
+  <programme start="20211111155500 -0600" stop="20211111160900 -0600" channel="5">
     <title lang="es">Galaxia Wander</title>
   </programme>
-  <programme start="20211111161500 -0600" stop="20211111163000 -0600" channel="5">
+  <programme start="20211111160900 -0600" stop="20211111162500 -0600" channel="5">
     <title lang="es">Pickle y Maní</title>
   </programme>
-  <programme start="20211111163000 -0600" stop="20211111164500 -0600" channel="5">
+  <programme start="20211111162500 -0600" stop="20211111164000 -0600" channel="5">
     <title lang="es">Cupcake &amp; Dino servicios generales</title>
   </programme>
-  <programme start="20211111164500 -0600" stop="20211111165200 -0600" channel="5">
+  <programme start="20211111164000 -0600" stop="20211111165500 -0600" channel="5">
     <title lang="es">Pecezuelos</title>
   </programme>
-  <programme start="20211111165200 -0600" stop="20211111170000 -0600" channel="5">
+  <programme start="20211111165500 -0600" stop="20211111170200 -0600" channel="5">
     <title lang="es">Larva</title>
   </programme>
-  <programme start="20211111170000 -0600" stop="20211111171500 -0600" channel="5">
+  <programme start="20211111170200 -0600" stop="20211111171800 -0600" channel="5">
     <title lang="es">Amphibia</title>
   </programme>
-  <programme start="20211111171500 -0600" stop="20211111172200 -0600" channel="5">
+  <programme start="20211111171800 -0600" stop="20211111173000 -0600" channel="5">
     <title lang="es">Kick Buttowski medio doble de riesgo</title>
-  </programme>
-  <programme start="20211111172200 -0600" stop="20211111173000 -0600" channel="5">
-    <title lang="es">Randy Cunningham Ninja Total</title>
   </programme>
   <programme start="20211111173000 -0600" stop="20211111180000 -0600" channel="5">
     <title lang="es">Gravity Falls un verano de misterios</title>
   </programme>
-  <programme start="20211111180000 -0600" stop="20211111183000 -0600" channel="5">
+  <programme start="20211111180000 -0600" stop="20211111182800 -0600" channel="5">
     <title lang="es">Lilo y Stitch</title>
   </programme>
-  <programme start="20211111183000 -0600" stop="20211111190000 -0600" channel="5">
+  <programme start="20211111182800 -0600" stop="20211111185500 -0600" channel="5">
     <title lang="es">Quack Pack</title>
   </programme>
-  <programme start="20211111190000 -0600" stop="20211111193000 -0600" channel="5">
+  <programme start="20211111185500 -0600" stop="20211111192300 -0600" channel="5">
     <title lang="es">Ultimate Spider-Man</title>
   </programme>
-  <programme start="20211111193000 -0600" stop="20211111200000 -0600" channel="5">
+  <programme start="20211111192300 -0600" stop="20211111194800 -0600" channel="5">
     <title lang="es">Star Wars Rebels</title>
   </programme>
-  <programme start="20211111200000 -0600" stop="20211111203000 -0600" channel="5">
+  <programme start="20211111194800 -0600" stop="20211111201200 -0600" channel="5">
     <title lang="es">Par de reyes</title>
   </programme>
-  <programme start="20211111203000 -0600" stop="20211111210000 -0600" channel="5">
+  <programme start="20211111201200 -0600" stop="20211111203500 -0600" channel="5">
     <title lang="es">Los guerreros Wasabi</title>
   </programme>
-  <programme start="20211111210000 -0600" stop="20211111213000 -0600" channel="5">
+  <programme start="20211111203500 -0600" stop="20211111210000 -0600" channel="5">
     <title lang="es">Lab Rats</title>
+  </programme>
+  <programme start="20211111210000 -0600" stop="20211111213000 -0600" channel="5">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
   </programme>
   <programme start="20211111213000 -0600" stop="20211111220000 -0600" channel="5">
     <title lang="es">Los Vecinos Green</title>
     <title lang="xx">Big City Greens</title>
     <desc lang="es">Cricket y su familia se mudan a la gran ciudad, estos simples campesinos deben aprender a convivir con sus nuevos vecinos en una metrópolis bulliciosa.(n)</desc>
   </programme>
-  <programme start="20211111220000 -0600" stop="20211111221500 -0600" channel="5">
+  <programme start="20211111220000 -0600" stop="20211111221400 -0600" channel="5">
     <title lang="es">Phineas y Ferb</title>
   </programme>
-  <programme start="20211111221500 -0600" stop="20211111223000 -0600" channel="5">
+  <programme start="20211111221400 -0600" stop="20211111222600 -0600" channel="5">
     <title lang="es">Pecezuelos</title>
   </programme>
-  <programme start="20211111223000 -0600" stop="20211111224500 -0600" channel="5">
+  <programme start="20211111222600 -0600" stop="20211111224100 -0600" channel="5">
     <title lang="es">Randy Cunningham Ninja Total</title>
   </programme>
-  <programme start="20211111224500 -0600" stop="20211111230000 -0600" channel="5">
+  <programme start="20211111224100 -0600" stop="20211111225800 -0600" channel="5">
     <title lang="es">Los Vecinos Green</title>
     <title lang="xx">Big City Greens</title>
     <desc lang="es">Cricket y su familia se mudan a la gran ciudad, estos simples campesinos deben aprender a convivir con sus nuevos vecinos en una metrópolis bulliciosa.(n)</desc>
   </programme>
-  <programme start="20211111230000 -0600" stop="20211111233000 -0600" channel="5">
+  <programme start="20211111225800 -0600" stop="20211111232200 -0600" channel="5">
     <title lang="es">Marvel Spider-Man</title>
   </programme>
-  <programme start="20211111233000 -0600" stop="20211111234500 -0600" channel="5">
+  <programme start="20211111232200 -0600" stop="20211111233400 -0600" channel="5">
     <title lang="es">Star vs. Las fuerzas del mal</title>
   </programme>
-  <programme start="20211111234500 -0600" stop="20211112000000 -0600" channel="5">
+  <programme start="20211111233400 -0600" stop="20211111234600 -0600" channel="5">
     <title lang="es">Randy Cunningham Ninja Total</title>
   </programme>
-  <programme start="20211112000000 -0600" stop="20211112003000 -0600" channel="5">
-    <title lang="es">Grandes Héroes: La Serie</title>
-    <title lang="xx">Big Hero 6: The Series</title>
-    <desc lang="es">Hiro, un joven genio de la tecnología de 14 años debe enfrentar una serie de desafíos académicos mientras él y su grupo de amigos protegen a San Fransokyo.(n)</desc>
-  </programme>
-  <programme start="20211112003000 -0600" stop="20211112004500 -0600" channel="5">
-    <title lang="es">Pickle y Maní</title>
-  </programme>
-  <programme start="20211112004500 -0600" stop="20211112010000 -0600" channel="5">
-    <title lang="es">Gusano del futuro</title>
-  </programme>
-  <programme start="20211112010000 -0600" stop="20211112013000 -0600" channel="5">
-    <title lang="es">Gravity Falls un verano de misterios</title>
-  </programme>
-  <programme start="20211112013000 -0600" stop="20211112020000 -0600" channel="5">
-    <title lang="es">Kick Buttowski medio doble de riesgo</title>
-  </programme>
-  <programme start="20211112020000 -0600" stop="20211112023000 -0600" channel="5">
-    <title lang="es">Los Vecinos Green</title>
-    <title lang="xx">Big City Greens</title>
-    <desc lang="es">Cricket y su familia se mudan a la gran ciudad, estos simples campesinos deben aprender a convivir con sus nuevos vecinos en una metrópolis bulliciosa.(n)</desc>
-  </programme>
-  <programme start="20211112023000 -0600" stop="20211112030000 -0600" channel="5">
-    <title lang="es">Grandes Héroes: La Serie</title>
-    <title lang="xx">Big Hero 6: The Series</title>
-    <desc lang="es">Hiro, un joven genio de la tecnología de 14 años debe enfrentar una serie de desafíos académicos mientras él y su grupo de amigos protegen a San Fransokyo.(n)</desc>
-  </programme>
-  <programme start="20211112030000 -0600" stop="20211112033000 -0600" channel="5">
-    <title lang="es">Gravity Falls un verano de misterios</title>
-  </programme>
-  <programme start="20211112033000 -0600" stop="20211112040000 -0600" channel="5">
+  <programme start="20211111234600 -0600" stop="20211112000000 -0600" channel="5">
     <title lang="es">Phineas y Ferb</title>
   </programme>
-  <programme start="20211112040000 -0600" stop="20211112043000 -0600" channel="5">
+  <programme start="20211112000000 -0600" stop="20211112002200 -0600" channel="5">
+    <title lang="es">Grandes Héroes: La Serie</title>
+    <title lang="xx">Big Hero 6: The Series</title>
+    <desc lang="es">Hiro, un joven genio de la tecnología de 14 años debe enfrentar una serie de desafíos académicos mientras él y su grupo de amigos protegen a San Fransokyo.(n)</desc>
+  </programme>
+  <programme start="20211112002200 -0600" stop="20211112003400 -0600" channel="5">
+    <title lang="es">Pickle y Maní</title>
+  </programme>
+  <programme start="20211112003400 -0600" stop="20211112004600 -0600" channel="5">
+    <title lang="es">Gusano del futuro</title>
+  </programme>
+  <programme start="20211112004600 -0600" stop="20211112010800 -0600" channel="5">
     <title lang="es">Gravity Falls un verano de misterios</title>
   </programme>
-  <programme start="20211112043000 -0600" stop="20211112050000 -0600" channel="5">
-    <title lang="es">Star vs. Las fuerzas del mal</title>
+  <programme start="20211112010800 -0600" stop="20211112013000 -0600" channel="5">
+    <title lang="es">Kick Buttowski medio doble de riesgo</title>
   </programme>
-  <programme start="20211112050000 -0600" stop="20211112053000 -0600" channel="5">
+  <programme start="20211112013000 -0600" stop="20211112015300 -0600" channel="5">
     <title lang="es">Los Vecinos Green</title>
     <title lang="xx">Big City Greens</title>
     <desc lang="es">Cricket y su familia se mudan a la gran ciudad, estos simples campesinos deben aprender a convivir con sus nuevos vecinos en una metrópolis bulliciosa.(n)</desc>
   </programme>
-  <programme start="20211112053000 -0600" stop="20211112060000 -0600" channel="5">
+  <programme start="20211112015300 -0600" stop="20211112021500 -0600" channel="5">
+    <title lang="es">Grandes Héroes: La Serie</title>
+    <title lang="xx">Big Hero 6: The Series</title>
+    <desc lang="es">Hiro, un joven genio de la tecnología de 14 años debe enfrentar una serie de desafíos académicos mientras él y su grupo de amigos protegen a San Fransokyo.(n)</desc>
+  </programme>
+  <programme start="20211112021500 -0600" stop="20211112023700 -0600" channel="5">
     <title lang="es">Gravity Falls un verano de misterios</title>
+  </programme>
+  <programme start="20211112023700 -0600" stop="20211112030000 -0600" channel="5">
+    <title lang="es">Phineas y Ferb</title>
+  </programme>
+  <programme start="20211112030000 -0600" stop="20211112032300 -0600" channel="5">
+    <title lang="es">Gravity Falls un verano de misterios</title>
+  </programme>
+  <programme start="20211112032300 -0600" stop="20211112034500 -0600" channel="5">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
+  </programme>
+  <programme start="20211112040700 -0600" stop="20211112043700 -0600" channel="5">
+    <title lang="es">Gravity Falls un verano de misterios</title>
+  </programme>
+  <programme start="20211112043700 -0600" stop="20211112045900 -0600" channel="5">
+    <title lang="es">Gravity Falls un verano de misterios</title>
+  </programme>
+  <programme start="20211112045900 -0600" stop="20211112052200 -0600" channel="5">
+    <title lang="es">Star vs. Las fuerzas del mal</title>
+  </programme>
+  <programme start="20211112052200 -0600" stop="20211112054400 -0600" channel="5">
+    <title lang="es">Los Vecinos Green</title>
+    <title lang="xx">Big City Greens</title>
+    <desc lang="es">Cricket y su familia se mudan a la gran ciudad, estos simples campesinos deben aprender a convivir con sus nuevos vecinos en una metrópolis bulliciosa.(n)</desc>
+  </programme>
+  <programme start="20211112054400 -0600" stop="20211112060000 -0600" channel="5">
+    <title lang="es">Phineas y Ferb</title>
   </programme>
   <programme start="20211112060000 -0600" stop="20211112061500 -0600" channel="5">
     <title lang="es">Phineas y Ferb</title>
@@ -763,6 +778,9 @@
   </programme>
   <programme start="20211112075500 -0600" stop="20211112080000 -0600" channel="5">
     <title lang="es">Mickey Mouse</title>
+  </programme>
+  <programme start="20211112080000 -0600" stop="20211112083000 -0600" channel="5">
+    <title lang="es">Las aventuras de Timón y Pumba</title>
   </programme>
   <programme start="20211112083000 -0600" stop="20211112084500 -0600" channel="5">
     <title lang="es">Star vs. Las fuerzas del mal</title>
@@ -980,8 +998,8 @@
   <programme start="20211111230000 -0600" stop="20211112000000 -0600" channel="6">
     <title lang="es">Rodando Ecuador</title>
   </programme>
-  <programme start="20211112060000 -0600" stop="20211112080000 -0600" channel="6">
-    <title lang="es">Telediario</title>
+  <programme start="20211112190000 -0600" stop="20211112200000 -0600" channel="6">
+    <title lang="es">Esta es mi canción</title>
   </programme>
   <programme start="20211111003000 -0600" stop="20211111010000 -0600" channel="7">
     <title lang="es">La Niñera</title>
@@ -1069,9 +1087,6 @@
   </programme>
   <programme start="20211112014500 -0600" stop="20211112020000 -0600" channel="7">
     <title lang="es">Matrimonio con Hijos</title>
-  </programme>
-  <programme start="20211112070000 -0600" stop="20211112083000 -0600" channel="7">
-    <title lang="es">El noticiero - 1era emisión</title>
   </programme>
   <programme start="20211112173000 -0600" stop="20211112190000 -0600" channel="7">
     <title lang="es">Soy el mejor</title>
@@ -1190,8 +1205,9 @@
     <title lang="es">C.S.I. Las Vegas</title>
     <desc lang="es">Investigadores buscan las verdades de los asesinatos en la ciudad de Las Vegas demostrando a los criminales que salirse con la suya es mucho más difícil.(n)</desc>
   </programme>
-  <programme start="20211112065500 -0600" stop="20211112073000 -0600" channel="8">
-    <title lang="es">Los Desayunos De 24 Horas</title>
+  <programme start="20211112190000 -0600" stop="20211112200000 -0600" channel="8">
+    <title lang="es">Los Simpson</title>
+    <desc lang="es">Una parodia satírica que cuenta las aventuras de los famosos personajes Homero, Marge, Bart, Lisa y Maggie de Springfield.(n)</desc>
   </programme>
   <programme start="20211111010000 -0600" stop="20211111015600 -0600" channel="9">
     <title lang="es">De volta ao mundo Amish</title>
@@ -1379,8 +1395,8 @@
   <programme start="20211111230000 -0600" stop="20211112000000 -0600" channel="10">
     <title lang="es">Novedades TV</title>
   </programme>
-  <programme start="20211112070000 -0600" stop="20211112073000 -0600" channel="10">
-    <title lang="es">Pensadores positivos</title>
+  <programme start="20211112190000 -0600" stop="20211112200000 -0600" channel="10">
+    <title lang="es">Gamanoticias estelar</title>
   </programme>
   <programme start="20211111010000 -0600" stop="20211111030000 -0600" channel="11">
     <title lang="es">Pantaleón y las visitadoras</title>
@@ -1565,7 +1581,7 @@
   <programme start="20211111230000 -0600" stop="20211112000000 -0600" channel="12">
     <title lang="es">Noticiero Uno</title>
   </programme>
-  <programme start="20211112070000 -0600" stop="20211112083000 -0600" channel="12">
+  <programme start="20211112190000 -0600" stop="20211112200000 -0600" channel="12">
     <title lang="es">Lo mejor en carne propia</title>
   </programme>
   <programme start="20211111010000 -0600" stop="20211111020000 -0600" channel="13">
@@ -1997,7 +2013,7 @@
     <title lang="es">Gordon, Gino y Fred</title>
   </programme>
   <programme start="20211111225800 -0600" stop="20211111235600 -0600" channel="16">
-    <title lang="es">Qué comemos</title>
+    <title lang="es">¿Qué Comemos</title>
   </programme>
   <programme start="20211111235600 -0600" stop="20211112005200 -0600" channel="16">
     <title lang="es">Primeras Damas</title>
@@ -2037,9 +2053,6 @@
   </programme>
   <programme start="20211113063500 -0600" stop="20211113070000 -0600" channel="16">
     <title lang="es">La ciencia de lo absurdo</title>
-  </programme>
-  <programme start="20211113070000 -0600" stop="20211113073000 -0600" channel="16">
-    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211113110200 -0600" stop="20211113113000 -0600" channel="16">
     <title lang="es">Megaindustria de alimentos</title>
@@ -3062,9 +3075,6 @@
   <programme start="20211112023000 -0600" stop="20211112030000 -0600" channel="21">
     <title lang="es">Las mujeres de mi tierra</title>
   </programme>
-  <programme start="20211112053000 -0600" stop="20211112093000 -0600" channel="21">
-    <title lang="es">Noticias Caracol</title>
-  </programme>
   <programme start="20211112120000 -0600" stop="20211112123000 -0600" channel="21">
     <title lang="es">Los magos de la cocina</title>
   </programme>
@@ -3155,11 +3165,11 @@
   <programme start="20211111230000 -0600" stop="20211112000000 -0600" channel="22">
     <title lang="es">Programación videos</title>
   </programme>
-  <programme start="20211112070000 -0600" stop="20211112080000 -0600" channel="22">
-    <title lang="es">Programación videos</title>
-  </programme>
   <programme start="20211112120000 -0600" stop="20211112130000 -0600" channel="22">
     <title lang="es">El mano a mano</title>
+  </programme>
+  <programme start="20211112190000 -0600" stop="20211112200000 -0600" channel="22">
+    <title lang="es">Programación videos</title>
   </programme>
   <programme start="20211112200000 -0600" stop="20211112210000 -0600" channel="22">
     <title lang="es">La hora del amor</title>
@@ -3272,9 +3282,6 @@
   </programme>
   <programme start="20211112060900 -0600" stop="20211112070000 -0600" channel="23">
     <title lang="es">Stargate Atlantis</title>
-  </programme>
-  <programme start="20211112070000 -0600" stop="20211112073000 -0600" channel="23">
-    <title lang="es">Infomercial</title>
   </programme>
   <programme start="20211112103000 -0600" stop="20211112114000 -0600" channel="23">
     <title lang="es">Infomercial</title>
@@ -3714,9 +3721,6 @@
   <programme start="20211111230000 -0600" stop="20211112000000 -0600" channel="26">
     <title lang="es">La Noche</title>
   </programme>
-  <programme start="20211112070000 -0600" stop="20211112090000 -0600" channel="26">
-    <title lang="es">La Mañana</title>
-  </programme>
   <programme start="20211112090000 -0600" stop="20211112093000 -0600" channel="26">
     <title lang="es">Zoom a la Noticia</title>
   </programme>
@@ -3738,6 +3742,9 @@
   <programme start="20211112170000 -0600" stop="20211112180000 -0600" channel="26">
     <title lang="es">La Tarde</title>
   </programme>
+  <programme start="20211112190000 -0600" stop="20211112200000 -0600" channel="26">
+    <title lang="es">Informativo NTN</title>
+  </programme>
   <programme start="20211112200000 -0600" stop="20211112210000 -0600" channel="26">
     <title lang="es">Zoom a la Noticia</title>
   </programme>
@@ -3750,15 +3757,16 @@
   <programme start="20211112230000 -0600" stop="20211113000000 -0600" channel="26">
     <title lang="es">La Noche</title>
   </programme>
-  <programme start="20211111005300 -0600" stop="20211111030200 -0600" channel="27">
+  <programme start="20211111003700 -0600" stop="20211111024600 -0600" channel="27">
     <title lang="es">The Equalizer 2</title>
     <title lang="xx">The Equalizer 2</title>
     <desc lang="es">Robert McCall sigue en una inquebrantable búsqueda por llevar justicia a los oprimidos, pero ¿qué tan lejos llegará cuando la víctima es un ser querido?(n)</desc>
   </programme>
-  <programme start="20211111030200 -0600" stop="20211111040000 -0600" channel="27">
-    <title lang="es">Cincuenta Sombras de Grey</title>
-    <title lang="xx">Fifty Shades of Grey</title>
-    <desc lang="es">La vida de la estudiante de literatura Anastasia Steele cambia para siempre cuando conoce al apuesto y multimillonario Christian Grey.(n)</desc>
+  <programme start="20211111024600 -0600" stop="20211111032500 -0600" channel="27">
+    <title lang="es">Hollywood One On One 2021</title>
+  </programme>
+  <programme start="20211111032500 -0600" stop="20211111040000 -0600" channel="27">
+    <title lang="es">Hollywood One On One 2021</title>
   </programme>
   <programme start="20211111040000 -0600" stop="20211111045500 -0600" channel="27">
     <title lang="es">The Mummy Tomb of the Dragon Emperor</title>
@@ -3792,42 +3800,47 @@
     <title lang="xx">The Equalizer 2</title>
     <desc lang="es">Robert McCall sigue en una inquebrantable búsqueda por llevar justicia a los oprimidos, pero ¿qué tan lejos llegará cuando la víctima es un ser querido?(n)</desc>
   </programme>
-  <programme start="20211112013500 -0600" stop="20211112035000 -0600" channel="27">
+  <programme start="20211112232100 -0600" stop="20211113013500 -0600" channel="27">
+    <title lang="es">The Equalizer 2</title>
+    <title lang="xx">The Equalizer 2</title>
+    <desc lang="es">Robert McCall sigue en una inquebrantable búsqueda por llevar justicia a los oprimidos, pero ¿qué tan lejos llegará cuando la víctima es un ser querido?(n)</desc>
+  </programme>
+  <programme start="20211113013500 -0600" stop="20211113035000 -0600" channel="27">
     <title lang="es">Cincuenta Sombras de Grey</title>
     <title lang="xx">Fifty Shades of Grey</title>
     <desc lang="es">La vida de la estudiante de literatura Anastasia Steele cambia para siempre cuando conoce al apuesto y multimillonario Christian Grey.(n)</desc>
   </programme>
-  <programme start="20211112035000 -0600" stop="20211112040000 -0600" channel="27">
+  <programme start="20211113035000 -0600" stop="20211113040000 -0600" channel="27">
     <title lang="es">Juego sucio en Las Vegas</title>
   </programme>
-  <programme start="20211112040000 -0600" stop="20211112050300 -0600" channel="27">
+  <programme start="20211113040000 -0600" stop="20211113050300 -0600" channel="27">
     <title lang="es">Legado de mentiras</title>
   </programme>
-  <programme start="20211112050300 -0600" stop="20211112070700 -0600" channel="27">
+  <programme start="20211113050300 -0600" stop="20211113070700 -0600" channel="27">
     <title lang="es">Dos Armas Letales</title>
   </programme>
-  <programme start="20211112070700 -0600" stop="20211112095000 -0600" channel="27">
+  <programme start="20211113070700 -0600" stop="20211113095000 -0600" channel="27">
     <title lang="es">El juego de la fortuna</title>
   </programme>
-  <programme start="20211112095000 -0600" stop="20211112114900 -0600" channel="27">
+  <programme start="20211113095000 -0600" stop="20211113114900 -0600" channel="27">
     <title lang="es">Todo un parto</title>
   </programme>
-  <programme start="20211112114900 -0600" stop="20211112135100 -0600" channel="27">
+  <programme start="20211113114900 -0600" stop="20211113135100 -0600" channel="27">
     <title lang="es">Si yo tuviera 30</title>
   </programme>
-  <programme start="20211112135100 -0600" stop="20211112163500 -0600" channel="27">
+  <programme start="20211113135100 -0600" stop="20211113163500 -0600" channel="27">
     <title lang="es">Mundo Acuático</title>
     <desc lang="es">Waterworld. En un futuro donde la capa polar se ha derretido y la mayor parte de la tierra se encuentra cubierta por agua, un marino se aventura en la búsqueda de tierra firme.(n)</desc>
   </programme>
-  <programme start="20211112163500 -0600" stop="20211112200000 -0600" channel="27">
+  <programme start="20211113163500 -0600" stop="20211113200000 -0600" channel="27">
     <title lang="es">Batman El caballero de la noche</title>
   </programme>
-  <programme start="20211112200000 -0600" stop="20211112222500 -0600" channel="27">
+  <programme start="20211113200000 -0600" stop="20211113222500 -0600" channel="27">
     <title lang="es">Geo Tormenta</title>
     <title lang="xx">Geostorm</title>
     <desc lang="es">Tras una serie de desastres naturales, los líderes del mundo se reúnen para crear un sistema que contrale el clima, pero este falla atacando a la tierra.(n)</desc>
   </programme>
-  <programme start="20211112222500 -0600" stop="20211113001000 -0600" channel="27">
+  <programme start="20211113222500 -0600" stop="20211114001000 -0600" channel="27">
     <title lang="es">Juego sucio en Las Vegas</title>
   </programme>
   <programme start="20211111003000 -0600" stop="20211111010000 -0600" channel="28">
@@ -4116,9 +4129,6 @@
     <title lang="xx">Kiko</title>
     <desc lang="es">Kiko, Poly, Lola, Patino y Ting-Ting son cinco amigos que resuelven sus problemas de manera divertida y única en un pequeño pueblo en el fondo del lago.(n)</desc>
   </programme>
-  <programme start="20211112070000 -0600" stop="20211112071500 -0600" channel="28">
-    <title lang="es">La Playa de Bob</title>
-  </programme>
   <programme start="20211112093000 -0600" stop="20211112094500 -0600" channel="28">
     <title lang="es">Jelly Jamm</title>
   </programme>
@@ -4185,6 +4195,9 @@
     <title lang="es">Kiko</title>
     <title lang="xx">Kiko</title>
     <desc lang="es">Kiko, Poly, Lola, Patino y Ting-Ting son cinco amigos que resuelven sus problemas de manera divertida y única en un pequeño pueblo en el fondo del lago.(n)</desc>
+  </programme>
+  <programme start="20211112190000 -0600" stop="20211112191500 -0600" channel="28">
+    <title lang="es">La Playa de Bob</title>
   </programme>
   <programme start="20211112213000 -0600" stop="20211112214500 -0600" channel="28">
     <title lang="es">Jelly Jamm</title>
