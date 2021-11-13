@@ -3335,9 +3335,6 @@
   <programme start="20211113120000 -0600" stop="20211113123000 -0600" channel="21">
     <title lang="es">Travesía</title>
   </programme>
-  <programme start="20211113123000 -0600" stop="20211113150000 -0600" channel="21">
-    <title lang="es">Noticias Caracol</title>
-  </programme>
   <programme start="20211113150000 -0600" stop="20211113180000 -0600" channel="21">
     <title lang="es">La Red</title>
   </programme>
@@ -3437,9 +3434,6 @@
   <programme start="20211113120000 -0600" stop="20211113130000 -0600" channel="22">
     <title lang="es">Especiales Tele Nostalgia</title>
   </programme>
-  <programme start="20211113130000 -0600" stop="20211113140000 -0600" channel="22">
-    <title lang="es">Programación videos</title>
-  </programme>
   <programme start="20211113140000 -0600" stop="20211113150000 -0600" channel="22">
     <title lang="es">Exclusivo</title>
   </programme>
@@ -3451,6 +3445,9 @@
   </programme>
   <programme start="20211113180000 -0600" stop="20211113190000 -0600" channel="22">
     <title lang="es">Especiales Tele Nostalgia</title>
+  </programme>
+  <programme start="20211113190000 -0600" stop="20211113200000 -0600" channel="22">
+    <title lang="es">Programación videos</title>
   </programme>
   <programme start="20211113200000 -0600" stop="20211113210000 -0600" channel="22">
     <title lang="es">El mano a mano</title>
@@ -4005,6 +4002,9 @@
   <programme start="20211113180000 -0600" stop="20211113190000 -0600" channel="26">
     <title lang="es">Planeta Gente</title>
   </programme>
+  <programme start="20211113190000 -0600" stop="20211113200000 -0600" channel="26">
+    <title lang="es">Informativo NTN</title>
+  </programme>
   <programme start="20211113200000 -0600" stop="20211113203000 -0600" channel="26">
     <title lang="es">Efecto Naím</title>
   </programme>
@@ -4443,9 +4443,6 @@
   <programme start="20211113123000 -0600" stop="20211113130000 -0600" channel="28">
     <title lang="es">Urmel</title>
   </programme>
-  <programme start="20211113130000 -0600" stop="20211113140000 -0600" channel="28">
-    <title lang="es">Tierra de Gremlins</title>
-  </programme>
   <programme start="20211113140000 -0600" stop="20211113150000 -0600" channel="28">
     <title lang="es">Vida Secreta del Koala</title>
   </programme>
@@ -4471,6 +4468,9 @@
   </programme>
   <programme start="20211113183000 -0600" stop="20211113190000 -0600" channel="28">
     <title lang="es">Urmel</title>
+  </programme>
+  <programme start="20211113190000 -0600" stop="20211113191500 -0600" channel="28">
+    <title lang="es">La Playa de Bob</title>
   </programme>
   <programme start="20211113213000 -0600" stop="20211113214500 -0600" channel="28">
     <title lang="es">Jelly Jamm</title>
