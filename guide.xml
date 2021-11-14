@@ -443,8 +443,8 @@
   <programme start="20211114100000 -0600" stop="20211114120000 -0600" channel="3">
     <title lang="es">Reto cuatro elementos</title>
   </programme>
-  <programme start="20211114130000 -0600" stop="20211114140000 -0600" channel="3">
-    <title lang="es">Guerrero Ninja Americano</title>
+  <programme start="20211114180000 -0600" stop="20211114200000 -0600" channel="3">
+    <title lang="es">Marimar</title>
   </programme>
   <programme start="20211113012600 -0600" stop="20211113031500 -0600" channel="4">
     <title lang="es">Jeepers Creepers 3</title>
@@ -993,9 +993,6 @@
   </programme>
   <programme start="20211114073000 -0600" stop="20211114080000 -0600" channel="6">
     <title lang="es">Misa</title>
-  </programme>
-  <programme start="20211114130000 -0600" stop="20211114140000 -0600" channel="6">
-    <title lang="es">Desde Cero</title>
   </programme>
   <programme start="20211114190000 -0600" stop="20211114200000 -0600" channel="6">
     <title lang="es">Telediario Dominical</title>
@@ -1580,9 +1577,6 @@
   </programme>
   <programme start="20211114113000 -0600" stop="20211114120000 -0600" channel="10">
     <title lang="es">Animado</title>
-  </programme>
-  <programme start="20211114120000 -0600" stop="20211114180000 -0600" channel="10">
-    <title lang="es">Novedades TV</title>
   </programme>
   <programme start="20211114180000 -0600" stop="20211114183000 -0600" channel="10">
     <title lang="es">Los protagonistas</title>
@@ -4103,6 +4097,9 @@
   </programme>
   <programme start="20211114143000 -0600" stop="20211114150000 -0600" channel="26">
     <title lang="es">CST</title>
+  </programme>
+  <programme start="20211114190000 -0600" stop="20211114200000 -0600" channel="26">
+    <title lang="es">Informativo NTN</title>
   </programme>
   <programme start="20211113001700 -0600" stop="20211113022000 -0600" channel="27">
     <title lang="es">Sicario 2: Soldado</title>
