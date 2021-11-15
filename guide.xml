@@ -3470,6 +3470,9 @@
   <programme start="20211115180000 -0600" stop="20211115190000 -0600" channel="22">
     <title lang="es">El mano a mano</title>
   </programme>
+  <programme start="20211115190000 -0600" stop="20211115200000 -0600" channel="22">
+    <title lang="es">Programación videos</title>
+  </programme>
   <programme start="20211115200000 -0600" stop="20211115210000 -0600" channel="22">
     <title lang="es">La hora del amor</title>
   </programme>
@@ -3969,14 +3972,14 @@
   <programme start="20211115113000 -0600" stop="20211115120000 -0600" channel="26">
     <title lang="es">CST</title>
   </programme>
-  <programme start="20211115130000 -0600" stop="20211115140000 -0600" channel="26">
-    <title lang="es">Planeta Gente</title>
-  </programme>
   <programme start="20211115140000 -0600" stop="20211115143000 -0600" channel="26">
     <title lang="es">Club Prensa</title>
   </programme>
   <programme start="20211115160000 -0600" stop="20211115180000 -0600" channel="26">
     <title lang="es">La Tarde</title>
+  </programme>
+  <programme start="20211115190000 -0600" stop="20211115200000 -0600" channel="26">
+    <title lang="es">Informativo NTN</title>
   </programme>
   <programme start="20211115200000 -0600" stop="20211115210000 -0600" channel="26">
     <title lang="es">Zoom a la Noticia</title>
