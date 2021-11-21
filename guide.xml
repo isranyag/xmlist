@@ -306,9 +306,6 @@
   <programme start="20211121024900 -0600" stop="20211121050000 -0600" channel="2">
     <title lang="es">Event Horizon la nave de la muerte</title>
   </programme>
-  <programme start="20211121080000 -0600" stop="20211121083000 -0600" channel="2">
-    <title lang="es">Infomercial</title>
-  </programme>
   <programme start="20211121083000 -0600" stop="20211121090500 -0600" channel="2">
     <title lang="es">Infomercial</title>
   </programme>
@@ -431,6 +428,9 @@
   </programme>
   <programme start="20211121100000 -0600" stop="20211121120000 -0600" channel="3">
     <title lang="es">Reto cuatro elementos</title>
+  </programme>
+  <programme start="20211121180000 -0600" stop="20211121200000 -0600" channel="3">
+    <title lang="es">Marimar</title>
   </programme>
   <programme start="20211121200000 -0600" stop="20211121210000 -0600" channel="3">
     <title lang="es">Como dice el dicho</title>
@@ -976,9 +976,6 @@
   </programme>
   <programme start="20211121073000 -0600" stop="20211121080000 -0600" channel="6">
     <title lang="es">Misa</title>
-  </programme>
-  <programme start="20211121080000 -0600" stop="20211121083000 -0600" channel="6">
-    <title lang="es">Rodando Ecuador</title>
   </programme>
   <programme start="20211121190000 -0600" stop="20211121200000 -0600" channel="6">
     <title lang="es">Telediario Dominical</title>
@@ -1536,9 +1533,6 @@
   </programme>
   <programme start="20211121060000 -0600" stop="20211121063000 -0600" channel="10">
     <title lang="es">Animado</title>
-  </programme>
-  <programme start="20211121080000 -0600" stop="20211121083000 -0600" channel="10">
-    <title lang="es">Outlet TV</title>
   </programme>
   <programme start="20211121100000 -0600" stop="20211121103000 -0600" channel="10">
     <title lang="es">El ojo clínico</title>
@@ -3937,9 +3931,6 @@
   <programme start="20211121010000 -0600" stop="20211121023000 -0600" channel="26">
     <title lang="es">La tarde, fin de semana</title>
   </programme>
-  <programme start="20211121080000 -0600" stop="20211121090000 -0600" channel="26">
-    <title lang="es">Informativo NTN</title>
-  </programme>
   <programme start="20211121100000 -0600" stop="20211121110000 -0600" channel="26">
     <title lang="es">Poder Latino</title>
   </programme>
@@ -3957,6 +3948,9 @@
   </programme>
   <programme start="20211121143000 -0600" stop="20211121150000 -0600" channel="26">
     <title lang="es">CST</title>
+  </programme>
+  <programme start="20211121190000 -0600" stop="20211121200000 -0600" channel="26">
+    <title lang="es">Informativo NTN</title>
   </programme>
   <programme start="20211120002600 -0600" stop="20211120023200 -0600" channel="27">
     <title lang="es">Riddick</title>
@@ -4334,9 +4328,6 @@
     <title lang="es">Kiko</title>
     <title lang="xx">Kiko</title>
     <desc lang="es">Kiko, Poly, Lola, Patino y Ting-Ting son cinco amigos que resuelven sus problemas de manera divertida y única en un pequeño pueblo en el fondo del lago.(n)</desc>
-  </programme>
-  <programme start="20211121081500 -0600" stop="20211121083000 -0600" channel="28">
-    <title lang="es">Todas las Estrellas Animales</title>
   </programme>
   <programme start="20211121093000 -0600" stop="20211121094500 -0600" channel="28">
     <title lang="es">Jelly Jamm</title>
