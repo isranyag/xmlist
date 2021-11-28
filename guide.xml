@@ -1021,9 +1021,6 @@
   <programme start="20211128073000 -0600" stop="20211128080000 -0600" channel="6">
     <title lang="es">Misa</title>
   </programme>
-  <programme start="20211128130000 -0600" stop="20211128140000 -0600" channel="6">
-    <title lang="es">Desde Cero</title>
-  </programme>
   <programme start="20211128190000 -0600" stop="20211128200000 -0600" channel="6">
     <title lang="es">Telediario Dominical</title>
   </programme>
@@ -1580,9 +1577,6 @@
   </programme>
   <programme start="20211128113000 -0600" stop="20211128120000 -0600" channel="10">
     <title lang="es">Animado</title>
-  </programme>
-  <programme start="20211128120000 -0600" stop="20211128180000 -0600" channel="10">
-    <title lang="es">Novedades TV</title>
   </programme>
   <programme start="20211128180000 -0600" stop="20211128183000 -0600" channel="10">
     <title lang="es">Los protagonistas</title>
@@ -3326,9 +3320,6 @@
   <programme start="20211128110000 -0600" stop="20211128113000 -0600" channel="21">
     <title lang="es">Los magos de la cocina</title>
   </programme>
-  <programme start="20211128123000 -0600" stop="20211128150000 -0600" channel="21">
-    <title lang="es">Noticias Caracol</title>
-  </programme>
   <programme start="20211128150000 -0600" stop="20211128170000 -0600" channel="21">
     <title lang="es">La Red</title>
   </programme>
@@ -3905,6 +3896,9 @@
   <programme start="20211128143000 -0600" stop="20211128150000 -0600" channel="26">
     <title lang="es">CST</title>
   </programme>
+  <programme start="20211128190000 -0600" stop="20211128200000 -0600" channel="26">
+    <title lang="es">Informativo NTN</title>
+  </programme>
   <programme start="20211127001200 -0600" stop="20211127015700 -0600" channel="27">
     <title lang="es">¿Qué pasó ayer? - Parte II</title>
   </programme>
@@ -4372,6 +4366,9 @@
   </programme>
   <programme start="20211128183000 -0600" stop="20211128190000 -0600" channel="28">
     <title lang="es">Urmel</title>
+  </programme>
+  <programme start="20211128190000 -0600" stop="20211128191500 -0600" channel="28">
+    <title lang="es">La Playa de Bob</title>
   </programme>
   <programme start="20211128213000 -0600" stop="20211128214500 -0600" channel="28">
     <title lang="es">Jelly Jamm</title>
