@@ -3565,9 +3565,6 @@
   <programme start="20211129120000 -0600" stop="20211129123000 -0600" channel="21">
     <title lang="es">Caracol cine</title>
   </programme>
-  <programme start="20211129123000 -0600" stop="20211129150000 -0600" channel="21">
-    <title lang="es">Noticias Caracol</title>
-  </programme>
   <programme start="20211129150000 -0600" stop="20211129160000 -0600" channel="21">
     <title lang="es">La esclava blanca</title>
   </programme>
@@ -3699,6 +3696,9 @@
   </programme>
   <programme start="20211129180000 -0600" stop="20211129190000 -0600" channel="22">
     <title lang="es">El mano a mano</title>
+  </programme>
+  <programme start="20211129190000 -0600" stop="20211129200000 -0600" channel="22">
+    <title lang="es">Programación videos</title>
   </programme>
   <programme start="20211129200000 -0600" stop="20211129210000 -0600" channel="22">
     <title lang="es">La hora del amor</title>
@@ -4253,14 +4253,14 @@
   <programme start="20211129113000 -0600" stop="20211129120000 -0600" channel="26">
     <title lang="es">CST</title>
   </programme>
-  <programme start="20211129130000 -0600" stop="20211129140000 -0600" channel="26">
-    <title lang="es">Planeta Gente</title>
-  </programme>
   <programme start="20211129140000 -0600" stop="20211129143000 -0600" channel="26">
     <title lang="es">Club Prensa</title>
   </programme>
   <programme start="20211129160000 -0600" stop="20211129180000 -0600" channel="26">
     <title lang="es">La Tarde</title>
+  </programme>
+  <programme start="20211129190000 -0600" stop="20211129200000 -0600" channel="26">
+    <title lang="es">Informativo NTN</title>
   </programme>
   <programme start="20211129200000 -0600" stop="20211129210000 -0600" channel="26">
     <title lang="es">Zoom a la Noticia</title>
@@ -4788,6 +4788,9 @@
     <title lang="es">Kiko</title>
     <title lang="xx">Kiko</title>
     <desc lang="es">Kiko, Poly, Lola, Patino y Ting-Ting son cinco amigos que resuelven sus problemas de manera divertida y única en un pequeño pueblo en el fondo del lago.(n)</desc>
+  </programme>
+  <programme start="20211129190000 -0600" stop="20211129191500 -0600" channel="28">
+    <title lang="es">La Playa de Bob</title>
   </programme>
   <programme start="20211129213000 -0600" stop="20211129214500 -0600" channel="28">
     <title lang="es">Jelly Jamm</title>
