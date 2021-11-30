@@ -435,7 +435,7 @@
   <programme start="20211130050000 -0600" stop="20211130060000 -0600" channel="3">
     <title lang="es">La noticia</title>
   </programme>
-  <programme start="20211130130000 -0600" stop="20211130140000 -0600" channel="3">
+  <programme start="20211130190000 -0600" stop="20211130200000 -0600" channel="3">
     <title lang="es">La Rosa de Guadalupe</title>
   </programme>
   <programme start="20211129015100 -0600" stop="20211129032200 -0600" channel="4">
@@ -1054,8 +1054,8 @@
   <programme start="20211130013000 -0600" stop="20211130043000 -0600" channel="6">
     <title lang="es">Café TV</title>
   </programme>
-  <programme start="20211130130000 -0600" stop="20211130140000 -0600" channel="6">
-    <title lang="es">Telediario</title>
+  <programme start="20211130190000 -0600" stop="20211130200000 -0600" channel="6">
+    <title lang="es">Esta es mi canción</title>
   </programme>
   <programme start="20211129003000 -0600" stop="20211129010000 -0600" channel="7">
     <title lang="es">La Niñera</title>
@@ -1141,8 +1141,8 @@
   <programme start="20211130051500 -0600" stop="20211130054000 -0600" channel="7">
     <title lang="es">Noticiero al Cierre</title>
   </programme>
-  <programme start="20211130123000 -0600" stop="20211130140000 -0600" channel="7">
-    <title lang="es">El noticiero II</title>
+  <programme start="20211130190000 -0600" stop="20211130203000 -0600" channel="7">
+    <title lang="es">El Noticiero III</title>
   </programme>
   <programme start="20211129000500 -0600" stop="20211129003000 -0600" channel="8">
     <title lang="es">En Corto</title>
@@ -1511,8 +1511,8 @@
   <programme start="20211129230000 -0600" stop="20211130000000 -0600" channel="10">
     <title lang="es">Novedades TV</title>
   </programme>
-  <programme start="20211130130000 -0600" stop="20211130134500 -0600" channel="10">
-    <title lang="es">Gamanoticias en la comunidad</title>
+  <programme start="20211130190000 -0600" stop="20211130200000 -0600" channel="10">
+    <title lang="es">Gamanoticias estelar</title>
   </programme>
   <programme start="20211129012000 -0600" stop="20211129024500 -0600" channel="11">
     <title lang="es">La lengua del sol</title>
@@ -1694,7 +1694,7 @@
   <programme start="20211130000000 -0600" stop="20211130003000 -0600" channel="12">
     <title lang="es">Notas divinas</title>
   </programme>
-  <programme start="20211130130000 -0600" stop="20211130133000 -0600" channel="12">
+  <programme start="20211130190000 -0600" stop="20211130200000 -0600" channel="12">
     <title lang="es">Lo mejor en carne propia</title>
   </programme>
   <programme start="20211129010000 -0600" stop="20211129020000 -0600" channel="13">
@@ -3284,14 +3284,14 @@
   <programme start="20211130120000 -0600" stop="20211130123000 -0600" channel="21">
     <title lang="es">Random 360</title>
   </programme>
-  <programme start="20211130123000 -0600" stop="20211130150000 -0600" channel="21">
-    <title lang="es">Noticias Caracol</title>
-  </programme>
   <programme start="20211130173000 -0600" stop="20211130180000 -0600" channel="21">
     <title lang="es">Travesía</title>
   </programme>
   <programme start="20211130180000 -0600" stop="20211130190000 -0600" channel="21">
     <title lang="es">Expediente Final</title>
+  </programme>
+  <programme start="20211130190000 -0600" stop="20211130200000 -0600" channel="21">
+    <title lang="es">Noticias Caracol</title>
   </programme>
   <programme start="20211130220000 -0600" stop="20211130223000 -0600" channel="21">
     <title lang="es">América 360</title>
@@ -3371,10 +3371,10 @@
   <programme start="20211130100000 -0600" stop="20211130110000 -0600" channel="22">
     <title lang="es">Estudio abierto</title>
   </programme>
-  <programme start="20211130130000 -0600" stop="20211130140000 -0600" channel="22">
+  <programme start="20211130180000 -0600" stop="20211130190000 -0600" channel="22">
     <title lang="es">Programación videos</title>
   </programme>
-  <programme start="20211130180000 -0600" stop="20211130190000 -0600" channel="22">
+  <programme start="20211130190000 -0600" stop="20211130200000 -0600" channel="22">
     <title lang="es">Programación videos</title>
   </programme>
   <programme start="20211130200000 -0600" stop="20211130210000 -0600" channel="22">
@@ -3916,11 +3916,11 @@
   <programme start="20211130090000 -0600" stop="20211130100000 -0600" channel="26">
     <title lang="es">Zoom a la Noticia</title>
   </programme>
-  <programme start="20211130130000 -0600" stop="20211130140000 -0600" channel="26">
-    <title lang="es">Planeta Gente</title>
-  </programme>
   <programme start="20211130180000 -0600" stop="20211130190000 -0600" channel="26">
     <title lang="es">La Noche</title>
+  </programme>
+  <programme start="20211130190000 -0600" stop="20211130200000 -0600" channel="26">
+    <title lang="es">Informativo NTN</title>
   </programme>
   <programme start="20211130230000 -0600" stop="20211201000000 -0600" channel="26">
     <title lang="es">La Noche</title>
@@ -4450,9 +4450,6 @@
   </programme>
   <programme start="20211130120000 -0600" stop="20211130130000 -0600" channel="30">
     <title lang="es">Olimpia Campeón Copa Libertadores 2002</title>
-  </programme>
-  <programme start="20211130130000 -0600" stop="20211130140000 -0600" channel="30">
-    <title lang="es">UFC Clásicos</title>
   </programme>
   <programme start="20211130180000 -0600" stop="20211130190000 -0600" channel="30">
     <title lang="es">WWE Vintage</title>
