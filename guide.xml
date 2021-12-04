@@ -3584,9 +3584,6 @@
   <programme start="20211204120000 -0600" stop="20211204123000 -0600" channel="21">
     <title lang="es">Travesía</title>
   </programme>
-  <programme start="20211204123000 -0600" stop="20211204150000 -0600" channel="21">
-    <title lang="es">Noticias Caracol</title>
-  </programme>
   <programme start="20211204150000 -0600" stop="20211204180000 -0600" channel="21">
     <title lang="es">La Red</title>
   </programme>
@@ -3680,9 +3677,6 @@
   <programme start="20211204120000 -0600" stop="20211204130000 -0600" channel="22">
     <title lang="es">Especiales Tele Nostalgia</title>
   </programme>
-  <programme start="20211204130000 -0600" stop="20211204140000 -0600" channel="22">
-    <title lang="es">Programación videos</title>
-  </programme>
   <programme start="20211204140000 -0600" stop="20211204150000 -0600" channel="22">
     <title lang="es">Exclusivo</title>
   </programme>
@@ -3694,6 +3688,9 @@
   </programme>
   <programme start="20211204180000 -0600" stop="20211204190000 -0600" channel="22">
     <title lang="es">Especiales Tele Nostalgia</title>
+  </programme>
+  <programme start="20211204190000 -0600" stop="20211204200000 -0600" channel="22">
+    <title lang="es">Programación videos</title>
   </programme>
   <programme start="20211204200000 -0600" stop="20211204210000 -0600" channel="22">
     <title lang="es">El mano a mano</title>
@@ -4276,6 +4273,9 @@
   <programme start="20211204180000 -0600" stop="20211204190000 -0600" channel="26">
     <title lang="es">Planeta Gente</title>
   </programme>
+  <programme start="20211204190000 -0600" stop="20211204200000 -0600" channel="26">
+    <title lang="es">Informativo NTN</title>
+  </programme>
   <programme start="20211204200000 -0600" stop="20211204203000 -0600" channel="26">
     <title lang="es">Efecto Naím</title>
   </programme>
@@ -4643,9 +4643,6 @@
     <title lang="xx">Kiko</title>
     <desc lang="es">Kiko, Poly, Lola, Patino y Ting-Ting son cinco amigos que resuelven sus problemas de manera divertida y única en un pequeño pueblo en el fondo del lago.(n)</desc>
   </programme>
-  <programme start="20211204130000 -0600" stop="20211204140000 -0600" channel="28">
-    <title lang="es">Tierra de Gremlins</title>
-  </programme>
   <programme start="20211204140000 -0600" stop="20211204150000 -0600" channel="28">
     <title lang="es">Vida Secreta del Koala</title>
   </programme>
@@ -4658,6 +4655,9 @@
     <title lang="es">Kiko</title>
     <title lang="xx">Kiko</title>
     <desc lang="es">Kiko, Poly, Lola, Patino y Ting-Ting son cinco amigos que resuelven sus problemas de manera divertida y única en un pequeño pueblo en el fondo del lago.(n)</desc>
+  </programme>
+  <programme start="20211204190000 -0600" stop="20211204191500 -0600" channel="28">
+    <title lang="es">Perdido</title>
   </programme>
   <programme start="20211204213000 -0600" stop="20211204214500 -0600" channel="28">
     <title lang="es">Jelly Jamm</title>
