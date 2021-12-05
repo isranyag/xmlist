@@ -1046,9 +1046,6 @@
   <programme start="20211205073000 -0600" stop="20211205080000 -0600" channel="6">
     <title lang="es">Misa</title>
   </programme>
-  <programme start="20211205130000 -0600" stop="20211205140000 -0600" channel="6">
-    <title lang="es">Desde Cero</title>
-  </programme>
   <programme start="20211205190000 -0600" stop="20211205200000 -0600" channel="6">
     <title lang="es">Telediario Dominical</title>
   </programme>
@@ -1641,9 +1638,6 @@
   </programme>
   <programme start="20211205113000 -0600" stop="20211205120000 -0600" channel="10">
     <title lang="es">Animado</title>
-  </programme>
-  <programme start="20211205120000 -0600" stop="20211205180000 -0600" channel="10">
-    <title lang="es">Novedades TV</title>
   </programme>
   <programme start="20211205180000 -0600" stop="20211205183000 -0600" channel="10">
     <title lang="es">Los protagonistas</title>
@@ -2605,10 +2599,6 @@
   </programme>
   <programme start="20211205110000 -0600" stop="20211205130000 -0600" channel="17">
     <title lang="es">RC Lens vs. Paris Saint-Germain</title>
-  </programme>
-  <programme start="20211205130000 -0600" stop="20211205140000 -0600" channel="17">
-    <title lang="es">SportsCenter</title>
-    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
   </programme>
   <programme start="20211205140000 -0600" stop="20211205151000 -0600" channel="17">
     <title lang="es">SportsCenter</title>
@@ -3615,9 +3605,6 @@
   <programme start="20211205110000 -0600" stop="20211205113000 -0600" channel="21">
     <title lang="es">Los magos de la cocina</title>
   </programme>
-  <programme start="20211205123000 -0600" stop="20211205150000 -0600" channel="21">
-    <title lang="es">Noticias Caracol</title>
-  </programme>
   <programme start="20211205150000 -0600" stop="20211205170000 -0600" channel="21">
     <title lang="es">La Red</title>
   </programme>
@@ -3743,6 +3730,9 @@
   </programme>
   <programme start="20211205180000 -0600" stop="20211205190000 -0600" channel="22">
     <title lang="es">La hora del amor</title>
+  </programme>
+  <programme start="20211205190000 -0600" stop="20211205200000 -0600" channel="22">
+    <title lang="es">Programación videos</title>
   </programme>
   <programme start="20211205200000 -0600" stop="20211205210000 -0600" channel="22">
     <title lang="es">Estudio abierto</title>
@@ -4338,6 +4328,9 @@
   <programme start="20211205143000 -0600" stop="20211205150000 -0600" channel="26">
     <title lang="es">CST</title>
   </programme>
+  <programme start="20211205190000 -0600" stop="20211205200000 -0600" channel="26">
+    <title lang="es">Informativo NTN</title>
+  </programme>
   <programme start="20211204011700 -0600" stop="20211204025400 -0600" channel="27">
     <title lang="es">Inquebrantable</title>
   </programme>
@@ -4730,6 +4723,9 @@
     <title lang="es">Kiko</title>
     <title lang="xx">Kiko</title>
     <desc lang="es">Kiko, Poly, Lola, Patino y Ting-Ting son cinco amigos que resuelven sus problemas de manera divertida y única en un pequeño pueblo en el fondo del lago.(n)</desc>
+  </programme>
+  <programme start="20211205190000 -0600" stop="20211205191500 -0600" channel="28">
+    <title lang="es">Perdido</title>
   </programme>
   <programme start="20211205213000 -0600" stop="20211205214500 -0600" channel="28">
     <title lang="es">Jelly Jamm</title>
