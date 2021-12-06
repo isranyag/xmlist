@@ -2619,6 +2619,10 @@
   <programme start="20211206170000 -0600" stop="20211206190000 -0600" channel="17">
     <title lang="es">Denver Broncos vs. Kansas City Chiefs</title>
   </programme>
+  <programme start="20211206190000 -0600" stop="20211206200000 -0600" channel="17">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero deportivo de la cadena ESPN el cual muestra los acontecimientos más importantes del deporte incluyendo resúmenes y marcadores.(n)</desc>
+  </programme>
   <programme start="20211206200000 -0600" stop="20211206220000 -0600" channel="17">
     <title lang="es">Juventus vs. Genoa</title>
   </programme>
@@ -3596,9 +3600,6 @@
   <programme start="20211206120000 -0600" stop="20211206123000 -0600" channel="21">
     <title lang="es">Caracol cine</title>
   </programme>
-  <programme start="20211206123000 -0600" stop="20211206150000 -0600" channel="21">
-    <title lang="es">Noticias Caracol</title>
-  </programme>
   <programme start="20211206150000 -0600" stop="20211206160000 -0600" channel="21">
     <title lang="es">La esclava blanca</title>
   </programme>
@@ -3730,6 +3731,9 @@
   </programme>
   <programme start="20211206180000 -0600" stop="20211206190000 -0600" channel="22">
     <title lang="es">El mano a mano</title>
+  </programme>
+  <programme start="20211206190000 -0600" stop="20211206200000 -0600" channel="22">
+    <title lang="es">Programación videos</title>
   </programme>
   <programme start="20211206200000 -0600" stop="20211206210000 -0600" channel="22">
     <title lang="es">La hora del amor</title>
@@ -4291,14 +4295,14 @@
   <programme start="20211206113000 -0600" stop="20211206120000 -0600" channel="26">
     <title lang="es">CST</title>
   </programme>
-  <programme start="20211206130000 -0600" stop="20211206140000 -0600" channel="26">
-    <title lang="es">Planeta Gente</title>
-  </programme>
   <programme start="20211206140000 -0600" stop="20211206143000 -0600" channel="26">
     <title lang="es">Club Prensa</title>
   </programme>
   <programme start="20211206160000 -0600" stop="20211206180000 -0600" channel="26">
     <title lang="es">La Tarde</title>
+  </programme>
+  <programme start="20211206190000 -0600" stop="20211206200000 -0600" channel="26">
+    <title lang="es">Informativo NTN</title>
   </programme>
   <programme start="20211206200000 -0600" stop="20211206210000 -0600" channel="26">
     <title lang="es">Zoom a la Noticia</title>
